@@ -1,0 +1,4015 @@
+{
+  "questions": [
+    "Which is the database of molecular recognition features in membrane proteins?",
+    "What genetic disorder results from mutations in the LYST gene?",
+    "Which protein is predominantly found within Lewy bodies?",
+    "Which enzyme is inhibited by Imetelstat?",
+    "What is the name for anorexia in gymnasts?",
+    "Which library is used for fixed-length approximate string matching?",
+    "When did the polio vaccine becomes available?",
+    "In which year did the U.S. Food and Drug Administration grant approval for empagliflozin?",
+    "Which SWI/SNF protein complex subunit has been demonstrated to interact with the FANCA gene product?",
+    "What is the role of gamma-secreatase complex in Alzheimer's Disease?",
+    "Among Caucasians, what is the predominant mutation found in the CFTR gene?",
+    "What is the incidence of sudden cardiac death among young athletes?",
+    "What was the main objective behind conducting the FANTOM5 project?",
+    "Rindopepimut is an analog of which growth factor?",
+    "Which syndrome is NHE6 associated with?",
+    "Among antiepileptic medications, which one poses the highest risk for causing spina bifida in newborns?",
+    "What is a popular mesaure of gene expression in RNA-seq experiments?",
+    "Which is the enzyme that degrades decapped mRNAs?",
+    "What is the method FASP used for?",
+    "Which genetic alterations are responsible for causing Rubinstein-Taybi syndrome?",
+    "Which disease is included as an additional feature in the Goldberg-Shprintzen syndrome?",
+    "Which is the E3 ubiquitin ligase of Hsp90?",
+    "What is the mode of inheritance of Wilson's disease?",
+    "Which pituitary adenoma is common cause of infertility is women?",
+    "What is the mechanism of action of Oxantel in treating periodontitis?",
+    "To which receptor does Aleglitazar act as an agonist?",
+    "For what purpose is the FASP technique employed?",
+    "To the ligand of which receptors does Denosumab (Prolia) bind?",
+    "What is the name of the protein that regulates mTOR function by binding to the Ragulator-RAG GTPase complex?",
+    "Is APOBEC3B protein predominantly cytoplasmic or nuclear?",
+    "What is the name of the R package designed for examining genome-wide DNA methylation data?",
+    "What is the name of the bacterial species responsible for causing the plague?",
+    "What is the predominant experimental model employed in multiple sclerosis research?",
+    "What type of information does the METLIN database primarily store?",
+    "What is formin associated with in the snail?",
+    "Ethosuximide acts on which type of calcium channels?",
+    "How do viroids replicate their genetic material?",
+    "What is the typical outer diameter of microtubules (tubulin heterodimers)?",
+    "How is Wilson's disease genetically transmitted?",
+    "What kind of chromatography is HILIC?",
+    "What are the tiniest subviral agents known to infect plants?",
+    "What is the primary phytoalexin produced by alfalfa (Medicago sativa L.)?",
+    "Which protein is affected by dusp8 activation?",
+    "Which tool is available for predicting regulatory interactions from ChIP-seq data?",
+    "ROSIER scale is used for which disorder?",
+    "Which SLC family is FLVCR1 a member of?",
+    "How often do spontaneous mutations occur when using Ethylnitrosourea (ENU) as a mutagen?",
+    "What type of mutation is causing the industrial melanism phenotype in peppered moths?",
+    "Which type of genes are modulated by SATB1?",
+    "Which type of GTPases is required for amino acid-dependent activation of mTORC1?",
+    "Which intraflagellar transport (IFT) motor protein has been linked to human skeletal ciliopathies?",
+    "Which genetic disorder is characterized by heightened sensitivity to DNA crosslinking agents and exhibits an elevated occurrence of chromosomal abnormalities?",
+    "What is the name of the stem loop present in the 3' end of genes encoding for selenoproteins?",
+    "What does iBAQ stand for in proteomic analysis?",
+    "What is the main role of Ctf4 in dna replication?",
+    "Which inherited disorder is known to be caused by mutations in the NEMO gene?",
+    "To which chromatin types, euchromatin or heterochromatin, do A-type lamins attach?",
+    "Which protein interacts with the Ragulator-RAG GTPases to control mTOR activity?",
+    "Which domain of TIA-1 is necessary for stress granule assembly?",
+    "Which gene has been implicated in Majeed Syndrome?",
+    "Which is the main abnormality that arises with Sox9 locus duplication?",
+    "Which specific protein does Simtuzumab bind to as its therapeutic target?",
+    "What genetic test is utilized to assess hypersensitivity risk for abacavir?",
+    "Which is the subcellular localization of the protein angiogenin?",
+    "In which cellular structure is the protein Pannexin1 primarily found?",
+    "LY450139 is investigational name of which drug?",
+    "Which drug should be used as an antidote in benzodiazepine overdose?",
+    "Which gene is involved in CADASIL?",
+    "From which sequence does the Alu repeat originate from?",
+    "What is the role of the UBC9 enzyme in the protein sumoylation pathway?",
+    "In the context of proteomics, what is the full form of the abbreviation iBAQ?",
+    "What genetic disorder results from the loss of Pds5b function in murine models?",
+    "Treatment of which disease was investigated in the MR CLEAN study?",
+    "Under which viral family is the Zika virus classified?",
+    "Is cancer related to global DNA hypo or hypermethylation?",
+    "Which fungal pathogen is responsible for causing Panama disease in banana plants?",
+    "Which enzyme is the primary target of the GV1001 vaccine?",
+    "At which histone residue does the MLL1 enzyme perform methylation?",
+    "Which specific gene undergoes mutation in individuals with Sickle Cell Anemia?",
+    "Which gene is commonly associated with mutations in both Multiple endocrine neoplasia type 2 and Hirschsprung's disease?",
+    "What congenital disorder results from the lack of intrinsic ganglion cells in the gastrointestinal tract?",
+    "Which is the mass-tag that reveal the ubiquitination of a lysine residue?",
+    "Using high-resolution mass spectrometry, what is the maximum molecular weight of intact macromolecular complexes that have been successfully analyzed?",
+    "What is the biochemical role of the Chd1 protein in terms of its enzymatic activity?",
+    "How would you define the condition known as trichotillomania?",
+    "Where within the cell is the ERAP2 enzyme primarily located?",
+    "What specific enzymatic function is associated with the BRCA1 gene, which is linked to breast cancer?",
+    "What is the inheritance pattern of Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) caused by RYR2 mutations?",
+    "What database can researchers use to identify chorion proteins within Lepidopteran proteomes?",
+    "What type of protease activity does PARL exhibit?",
+    "How is Facioscapulohumeral muscular dystrophy (FSHD) genetically transmitted?",
+    "Which is the binding site motif of Sp1?",
+    "What is the name of the database containing molecular recognition features found in membrane proteins?",
+    "What is generic name of drug Adempas?",
+    "In Drosophila embryos, what is the purpose of employing the Bimolecular Fluorescence Complementation (BiFC) assay?",
+    "Which calcium channels does ethosuximide target?",
+    "Which gene is involved in Giant Axonal Neuropathy?",
+    "Upon activation of dusp8, which specific protein undergoes modification?",
+    "What molecule is targeted by suvorexant?",
+    "What tissue is most affected in Ehlers-Danlos syndromes?",
+    "Which is the gene mutated in type 1 neurofibromatosis?",
+    "Is Rheumatoid Arthritis more common in men or women?",
+    "What specific receptor does gefitinib primarily act upon within cells?",
+    "To what extent does HPV vaccination reduce the risk for cervical cancer?",
+    "Which deficiency is the cause of restless leg syndrome?",
+    "In which specific region of the intestinal epithelium can Paneth cells be found?",
+    "What is the primary clinical manifestation observed in patients with Doose syndrome?",
+    "What specific biochemical function do proteins belonging to the myotubularin family perform?",
+    "Which enzyme is inhibited by Varespladib?",
+    "What is trichotillomania?",
+    "Which genome browser database for DNA shape annotations is available?",
+    "For which psychiatric condition is Loxapine primarily prescribed?",
+    "What type of cells are responsible for producing alpha-defensin 5 in the intestine?",
+    "Which population has a high frequency of the HLA-B*1502 allele?",
+    "Mutations in which gene determine response to both erlotinib and gefitinib?",
+    "Which is the main cause of the Patau syndrome?",
+    "Which R/bioconductor package is used for integrative genomics visualizations?",
+    "What is the primary function of lipid droplets within cellular structures?",
+    "What function does the protein Ctf4 serve during the process of DNA replication?",
+    "Which parasitic organism is responsible for triggering Katayama Fever?",
+    "Which G protein is essential in the formation and function of lamellipodia?",
+    "Which antibody is implicated in the Bickerstaff's brainstem encephalitis?",
+    "What specific protein does the antibody target when performing immunostaining to identify Lewy bodies?",
+    "What causes Katayama Fever?",
+    "What is the name of the genome browser database providing annotations for DNA shape?",
+    "What specific region of the TIA-1 protein is essential for the formation of stress granules?",
+    "Which histone mutation is associated with gliomas?",
+    "Which disease the skin condition Necrobiosis lipoidica diabeticorum is associated to?",
+    "Which cyclin- dependent kinase inhibitor is regulated by Bmi-1?",
+    "What is the specific molecule that LeuRS translational quality control acts upon?",
+    "How does the H2AX protein respond when DNA double-strand breaks occur?",
+    "Into how many distinct phases of regulatory innovation can the evolutionary development of vertebrates be categorized?",
+    "How frequently does cystic fibrosis occur among individuals of Caucasian descent?",
+    "What was the purpose of the FANTOM5 project?",
+    "In which genomic regions of Leishmania tarentolae is the modified nucleotide base J located?",
+    "Which heat shock protein is found to be upregulated during Hsp90 inhibition?",
+    "Approximately how many long non-coding RNA molecules are present in the human genome?",
+    "Which intermediate filament (IF) protein can be used as a non-specific marker of the neuronal precursor cells of the subventricular zone?",
+    "What is Dravet syndrome?",
+    "What is the Pfam database?",
+    "In RNA-seq studies, which metric is commonly utilized to quantify gene expression levels?",
+    "What is Contrave prescribed for?",
+    "What is hyperosmia",
+    "What role does the calcium-sensing receptor (CaSR) serve in the body?",
+    "What specific protein does the monoclonal antibody Secukinumab bind to?",
+    "Which disease is linked to mutations within BRAG1?",
+    "Is single guide RNA part of the CRISPR/Cas9 tool or an inhibitor of its function?",
+    "What is the definitive treatment for low pressure headache?",
+    "What is the effect of thapsigargin treatment?",
+    "What is the causative agent of the \"Panama disease\" affecting bananas?",
+    "Under what conditions does the concentration of itaconic acid increase?",
+    "Which JAK (Janus kinase) inhibitor is approved for treatment of rheumatoid arthritis?",
+    "What specific autophagy mechanism is initiated by the KFERQ sequence found in cytoplasmic proteins?",
+    "Which is the largest metabolic gene cluster in yeast?",
+    "What protein is associated with Spinocerebellar ataxia type 3?",
+    "How does nocodazole impact cellular division?",
+    "In which genetic condition are mutations in the U4atac small nuclear RNA (snRNA) commonly identified?",
+    "How would you define the medical condition known as commotio cordis?",
+    "What diagnostic technique is employed to assess the thickness of the bladder wall?",
+    "What term describes the eating disorder specifically observed in gymnasts?",
+    "Identify the E3 ubiquitin ligase responsible for targeting Hsp90 for degradation.",
+    "Which polyQ tract protein is linked to Spinocerebellar Ataxia type 2?",
+    "What is the role of 3,4-diaminobenzoic acid derivatives in the immune system?",
+    "What specific gene plays a crucial role in ensuring the optimal efficacy of clopidogrel?",
+    "Which is the protein implicated in Spinocerebellar ataxia type 3?",
+    "Which is the receptor for the immunosuppressive drug cyclosporin A (CsA)?",
+    "Which factor interacts with Treslin/TICRR throughout the cell cycle of human cells?",
+    "What is targeted by Palbociclib?",
+    "Do A-type lamins bind euchromatin or heterochromatin?",
+    "What is the proportion of non canonical splice sites in the human genome?",
+    "What specific genetic alteration is linked to periodic limb movements during sleep (PLMS)?",
+    "What is the specific protein targeted by the drug empagliflozin?",
+    "What is the common term for the therapeutic approach used to address CCSVI (chronic cerebro-spinal venous insufficiency) in patients with multiple sclerosis?",
+    "How are ultraconserved elements called when they form clusters?",
+    "How frequently does sudden cardiac death occur in young athletes annually?",
+    "What specific genetic mutation is linked to the development of Muenke syndrome?",
+    "At which specific amino acid position in alpha-synuclein does phosphorylation occur within Lewy bodies?",
+    "What is the risk of developing acute myelogenous leukemia in Fanconi anemia?",
+    "In the promoter-paused state of RNA polymerase II, which amino acid residue undergoes phosphorylation?",
+    "What is the physiological role of LKB1 involved in Peutz-Jeghers syndrome?",
+    "What is the number of cysteine residues present in alpha-defensins?",
+    "What is the name of the R / bioconductor package commonly utilized to conduct SNP enrichment analysis?",
+    "Which clotting factor is inhibited by betrixaban?",
+    "What organism serves as the transmission carrier for the Louping ill virus?",
+    "What specific genetic mutation is responsible for the development of Neurofibromatosis type 1?",
+    "In protein N-terminomics, what does the acronym 'TAILS' stand for?",
+    "What is the Drosophila melanogaster Groucho protein?",
+    "Which gene-defect causes the Vel-blood type?",
+    "What specific biological pathway does bortezomib act upon in the treatment of cancer?",
+    "What is considered the critical molecular occurrence in the development of Fanconi anemia?",
+    "What is the name of the enzyme whose insufficiency leads to GM1 gangliosidoses?",
+    "Which molecule does suvorexant specifically interact with?",
+    "Willis-Ekbom disease is also known as?",
+    "Describe a diet that reduces the chance of kidney stones.",
+    "What is the effect of the absence of Saccharomyces cerevisiae Rrm3p?",
+    "Which disease of the central nervous system is characterized by the presence of Lewy bodies?",
+    "In which kingdom do microsporidia belong, according to their current classification scheme?",
+    "What is the approximate number of imprinted genes present in the human genome?",
+    "What specific class of GTPases plays a crucial role in the activation of mTORC1 in response to amino acid availability?",
+    "What is the meaning of the acronym \"TAILS\" used in protein N-terminomics?",
+    "What is the target of daratumumab?",
+    "What is the main component of the Lewy bodies?",
+    "What is the name of the malfunctioning enzyme responsible for Fabry disease, a type of lysosomal storage disorder?",
+    "What is the name of the polyglutamine tract-containing protein associated with Spinocerebellar Ataxia type 2?",
+    "How do inflammatory marker levels correlate with free triiodothyronine (FT3) concentrations in individuals diagnosed with heart failure?",
+    "Which is the molecular weight of the protein angiogenin?",
+    "RYR2 mutations causing Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) exhibit which type of genetic inheritance?",
+    "What is the mode of inheritance of Marchesani syndrome?",
+    "Which disorder is rated by Palmini classification?",
+    "Neurostimulation of which nucleus is used for treatment of dystonia?",
+    "What is the inheritance pattern of Li–Fraumeni syndrome?",
+    "What happens to H2AX upon DNA bouble strand breaks?",
+    "What range of sequencing depth is typically recommended for whole-exome sequencing in humans?",
+    "Through which genetic transmission pattern is Barth syndrome passed down?",
+    "What is the cause of episodic ataxia type 6?",
+    "Which molecule is targeted by the drug Gevokizumab?",
+    "What is the total number of genes identified in the MammaPrint gene signature?",
+    "How does interleukin-18 binding protein (IL-18BP) function in biological systems?",
+    "In yeast, what is the name of the most extensive gene cluster involved in metabolism?",
+    "What additional condition is associated with Goldberg-Shprintzen syndrome?",
+    "Which is the main target of the anti-arrhythmic activity of flecainide?",
+    "What type of immunoglobulins are implicated in the pathogenesis of Riedel thyroiditis?",
+    "Which disease is treated with Eliglustat?",
+    "In individuals diagnosed with short QT syndrome, what is the typical range for the QT interval duration?",
+    "What is the RESID database?",
+    "Which receptors can be evaluated with the [18F]altanserin?",
+    "The antibodies MK-3475 and CT-011 have shown promising results in treating malignancies. Which protein are they targeting?",
+    "For which therapeutic intervention is SLCO1B1 genetic testing recommended?",
+    "Which gene is associated with Muenke syndrome?",
+    "Which species of bacteria did the mitochondria originate from?",
+    "Which is the vector of Louping ill virus?",
+    "How many periods of regulatory innovation led to the evolution of vertebrates?",
+    "In individuals diagnosed with Donohue syndrome, what type of receptor associated with hormonal signaling exhibits dysfunctional activity?",
+    "How do lantibiotics differ from conventional antibiotics in terms of their molecular structure?",
+    "During which stage of the cell cycle does transcription-associated mutagenesis (TAM) triggered by stress occur?",
+    "Which kinase is inhibited by Tripolin A?",
+    "Is the H3K4me3 histone mark related to transcriptional initiation or elongation?",
+    "What is needed for MMP proteins to be functional?",
+    "What complement pathway does ficolin-3 trigger?",
+    "Is there any genetic determinant of hair pigmentation that could be useful in forensic analyses?",
+    "What is the name of the signaling cascade that becomes excessively active in Tuberous Sclerosis?",
+    "What type of cellular components are produced when keratin proteins assemble?",
+    "What is the number of protein coding genes in the human genome?",
+    "Which syndrome is associated with OATP1B1 and OATP1B3 deficiency?",
+    "Which technique is used for detection of EWS/FLI1 fusion transcripts?",
+    "What type of hormonal irregularities are typically observed in individuals with Pendred syndrome?",
+    "For what form of myeloma is ixazomib currently under investigation?",
+    "To which metabolic disorder is the dermatological manifestation Necrobiosis lipoidica diabeticorum linked?",
+    "What was the primary objective of the FANTOM3 initiative?",
+    "Against which infectious disease is the RTS,S AS01 vaccine designed to provide protection?",
+    "What is the effect of CRD-BP on the stability of c-myc mRNA?",
+    "What is the most probable defect underlying triple negative breast cancer?",
+    "Which is the phosphorylated residue in the promoter paused form of RNA polymerase II?",
+    "What organism causes woolsorter's disease",
+    "What specific enzyme does the drug Evolocumab act upon?",
+    "What is the name of the library designed for performing approximate string comparisons with fixed-length sequences?",
+    "Which miRNA is targeted by SRY/Sox9?",
+    "Which  is the execution time (complexity) of the Smith-Waterman algorithm for the alignment of two sequences",
+    "Which DNA repair system is involved in HNPCC?",
+    "What is the function of the AIRE gene at the embryonic stage?",
+    "What type of protein does the human GRIK gene produce?",
+    "What tyrosine kinase, involved in a Philadelphia- chromosome positive chronic myelogenous leukemia, is the target of Imatinib (Gleevec)?",
+    "In which breast cancer patients can palbociclib be used?",
+    "Which is the enzymatic activity of the myotubularin family of proteins?",
+    "How does psoralen interact with DNA at the molecular level through photobinding?",
+    "In which cellular compartment does the interaction between proteins S100A4 and p53 occur?",
+    "In which spinal area is a structural irregularity significant for diagnosing Bertolotti's syndrome?",
+    "What is the link between Nonidet-40 (NP-40) and biotinylation?",
+    "What clinical implications does delayed enhancement have for individuals diagnosed with hypertrophic cardiomyopathy?",
+    "What medication was evaluated in the TEMSO study for treating multiple sclerosis?",
+    "What cell surface antigen serves as a common diagnostic marker for Ewing sarcoma?",
+    "In cancerous conditions, does the expression level of the long non-coding RNA malat-1 increase or decrease?",
+    "What was the purpose of the FANTOM3 project?",
+    "What is the name of the genome browser database providing annotations for DNA shape?",
+    "What molecule is targeted by brodalumab?",
+    "Romano Ward long QT syndrome follows which genetic inheritance pattern?",
+    "What hormone is known for promoting social bonding?",
+    "To which protein family do mDia proteins belong?",
+    "For which medical condition was the MR CLEAN study designed to evaluate treatment options?",
+    "What disorder is linked to mutations in the NDRG1 gene causing peripheral neuropathy?",
+    "In the R/Bioconductor environment, what tool can be utilized to examine genomic interactions?",
+    "Which is the \"bonding hormone\"?",
+    "How does perspiration correlate with the anaerobic threshold?",
+    "What is the application of the Bimolecular Fluorescence Complementation (BiFC) assay in Drosophila embryos?",
+    "What specific enzyme does Orteronel target for inhibition?",
+    "Which disease can be treated with Delamanid?",
+    "Where is the TAZ (G4.5) is located in humans?",
+    "What role does the spliceosome play in processing eukaryotic RNA?",
+    "Which drug is considered as the first line treatment of fibromyalgia?",
+    "What is the role of eteplirsen in DMD patients?",
+    "Which brain nucleus is targeted with neurostimulation to alleviate symptoms of dystonia?",
+    "Approximately how many genes in the human genome encode for proteins?",
+    "What is the typical alteration of the thyroid profile metabolism early after coronary artery bypass graft surgery?",
+    "What is Trypan blue used for?",
+    "Simpson grading is used to describe resection of which brain tumor?",
+    "When are itaconic acid levels elevated?",
+    "Which residue of alpha-synuclein was found to be phosphorylated in Lewy bodies?",
+    "Which gene mutation leads to Mitchell-Riley syndrome?",
+    "Which is the human selenoprotein that contains several Se-Cys residues?",
+    "Which tool is used for promoterome mining using CAGE data?",
+    "What specific cell type is identified by the presence of Chromogranin A?",
+    "What is the specific DNA sequence motif recognized by the transcription factor Sp1?",
+    "Among pediatric patients with dystonia, what proportion exhibits a positive response to tetrabenazine therapy?",
+    "What is an acceptable sequence coverage(depth) required for human whole-exome sequencing?",
+    "How does drinking coffee affect the likelihood of experiencing a stroke?",
+    "What disease is the drug aducanumab targeting?",
+    "How does spermidine influence the toxic effects of α-synuclein on neurons?",
+    "What is the specific antibody that targets SLAMF7?",
+    "Which is the most common cause of sudden cardiac death in young athletes?",
+    "What is the effect of nocodazole cell treatment?",
+    "What is the name of the R/Bioconductor package that employs the Hilbert curve for genomic data visualization?",
+    "What is the name of the motor protein involved in intraflagellar transport that is associated with skeletal ciliopathies in humans?",
+    "In Ehlers-Danlos syndromes, which type of biological tissue is primarily impacted?",
+    "In Amyotrophic Lateral Sclerosis, what specific cell type undergoes degeneration?",
+    "What type of intermediate filament protein serves as a general indicator for neuronal progenitor cells located in the subventricular zone?",
+    "Which is the most widely used anti-TNF drug?",
+    "For what percentage range of pediatric patients experiencing heart failure has Enalapril demonstrated both safety and efficacy?",
+    "What is the defining pathological hallmark observed in Dyke-Davidoff-Masson syndrome?",
+    "What disorder is linked to a malfunctioning ALX1 protein?",
+    "Which translocation is harbored in the Askin tumor cells?",
+    "What specific genetic mutation is responsible for causing Huntington's disease?",
+    "What specific molecule does the medication Gevokizumab act upon?",
+    "Which gene is involved in the development of Barth syndrome?",
+    "What is the inheritance of Barth syndrome?",
+    "What is the specific enzyme targeted and inhibited by the medication fostamatinib?",
+    "In the treatment of which diabetes classification is empagliflozin indicated?",
+    "How is Li–Fraumeni syndrome genetically transmitted?",
+    "Which annotated database of A-to-I RNA editing is available?",
+    "Which is the main CHEK2 genetic variant, thought to be involved in familial breast cancer?",
+    "What is the generic name of Gliolan?",
+    "Can you identify the pharmacological class to which vildagliptin, sitagliptin, saxagliptin, alogliptin, linagliptin, and dutogliptin belong?",
+    "Which gene controls the expression of GATA-1 isoforms?",
+    "What gene is mutated in Huntington's disease?",
+    "What does the human ABCC gene  product do?",
+    "What specific molecule does the monoclonal antibody Pembrolizumab bind to?",
+    "What is the usual HER-2 status in breast cancer associated with Li-Fraumeni syndrome?",
+    "Which type of myeloma is ixazomib being evaluated for?",
+    "What specific gene mutation is associated with neurofibromatosis type 1?",
+    "For what type of cancer was Orteronel specifically designed as a therapeutic agent?",
+    "How is Apert syndrome genetically transmitted?",
+    "What type of cells exhibit the presence of gasdermins?",
+    "Which Bruton's tyrosine kinase inhibitor is prescribed for managing chronic lymphocytic leukemia?",
+    "Abnormality in which vertebral region is important in the Bertolotti's syndrome?",
+    "What is the specific enzyme that niraparib targets for inhibition?",
+    "How much should be the duration of the QT interval in patients with short QT syndrome?",
+    "Which specific molecule does brodalumab act upon?",
+    "What is the sedimentation coefficient of the mammalian mitoribosome?",
+    "What is the name of the key transcription factor that controls the expression of lysosomal genes?",
+    "Which is the main difference between Alu and B1 repeats?",
+    "What is the count of disulfide bonds present in the hepcidin protein?",
+    "Which antibodies cause Riedel thyroiditis?",
+    "Where are Paneth cells located?",
+    "How can the fetal Rhesus be determined with non-invasive testing?",
+    "What R package can be utilized to visualize circular and linear karyotype diagrams?",
+    "Which signalling pathway is involved in Tuberous Sclerosis?",
+    "Telcagepant acts upon which receptor?",
+    "Alpha-spectrin and beta-spectrin subunits form parallel or antiparallel heterodimers?",
+    "Through which molecular pathway are dishevelled proteins typically activated?",
+    "How frequently does Edwards syndrome occur among individuals in Europe?",
+    "Which is the branch site consensus sequence in U12-dependent introns?",
+    "Which protein is found to be mutated in Friedreich's ataxia?",
+    "Which is the most common disease attributed to malfunction or absence of primary cilia?",
+    "Where is the metaxin complex localized?",
+    "In proteomics, what is the primary purpose of utilizing SWATH-MS technology?",
+    "Where is the protein produced by the DNAJC11 gene primarily located within the cell?",
+    "In the Vel blood group system, what specific antigen do anti-Vel antibodies bind to?",
+    "GV1001 vaccine targets which enzyme?",
+    "Which antiepileptic drug is most strongly associated with spina bifida? ",
+    "For which viral infection is the drug Cidofovir (Vistide) prescribed?",
+    "Which specific modification on histones does the bromodomain bind to?",
+    "What is the name of the peak calling method that utilizes mixture model clustering in its underlying mechanism?",
+    "What type of genetic changes are primarily responsible for K-ras modifications in cancerous tumors?",
+    "Pridopidine has been tested for treatment of which disorder?",
+    "Which drug is benserazide usually co-administered with?",
+    "In which region is Viliuisk encephalomyelitis primarily diagnosed?",
+    "Which disease has been associated to a disruptive ALX1 protein?",
+    "Under what pathological state was the protein S100A7 first discovered?",
+    "In the yeast species S. cerevisiae, what specific protein is responsible for facilitating the formation of gene loops?",
+    "To which prostaglandin is treprostinil structurally similar?",
+    "Which specific gene undergoes mutation in individuals affected by Gaucher disease?",
+    "How long, in kb (kilobases),  is a \"Long interspersed nuclear element\"?",
+    "What is the number of long non coding RNAs in the human genome",
+    "Mention the only available genomics and developmental transcriptomics resource for the urochordate Oikopleura dioica",
+    "Which is the most widely used model for the study of multiple sclerosis (MS)?",
+    "What specific protein domains in TDP-43 and FUS facilitate their ability to self-associate?",
+    "Which virus is Cidofovir (Vistide) indicated for?",
+    "What is the relationship between thyroid hormone and inflammatory markers in heart failure patients?",
+    "What genetic disorder results from deficiencies in the OATP1B1 and OATP1B3 transporters?",
+    "What category of genes does SATB1 regulate?",
+    "What is the indication for isradipine?",
+    "In Gaucher's disease, what specific enzyme is lacking or insufficient?",
+    "What genetic mutation leads to the manifestation of Sotos syndrome?",
+    "What is another term used to refer to Acrokeratosis paraneoplastica?",
+    "Which condition is characterized by pain in the heel?",
+    "In which cellular compartments is the protein angiogenin typically found?",
+    "What is the most likely age of diagnosis of Crohn's disease (CD)?",
+    "What is the underlying genetic cause of Spinal Muscular Atrophy (SMA), a hereditary neuromuscular condition?",
+    "Which is the cellular localization of the protein Opa1?",
+    "How is myotonic dystrophy inherited?",
+    "Which protein is required for Argonaute 2 recruitment to stress granules and P-bodies?",
+    "What is the mode of inheritance of Acromicric dysplasia?",
+    "In what liver disorder is the reduced expression of CD28 on infiltrating T cells implicated?",
+    "For which infectious disease is Delamanid an effective treatment?",
+    "What is the full form of mTOR in biological terms?",
+    "What is the specific gene that undergoes mutation in individuals with Karak syndrome?",
+    "What is the effect of enamel matrix derivative on pulp regeneration?",
+    "Where in the cell do we find the protein Cep135?",
+    "At which location within a protein is a signal sequence typically located?",
+    "Which is the molecular mechanism underlying K-ras alterations in carcinomas?",
+    "Which protein pathway is regulating SGK1-mediated phosphorylation of FOXO3a to control cell proliferation?",
+    "To which category of enzymes does peroxiredoxin 2 (PRDX2) belong?",
+    "Can you define the ubiquitin proteome and describe its composition?",
+    "What is the characteristic feature of the Dyke-Davidoff-Masson syndrome.",
+    "What is the inheritance pattern of Hunter disease or mucopolysaccharidosis II?",
+    "Which enzyme is deficient in Gaucher's disease?",
+    "Treprostinil is an analogue for which prostaglandin?",
+    "Which is the target of bortezomib used in cancer therapy?",
+    "What is targeted by monoclonal antibody Pembrolizumab?",
+    "Which bacteria caused plague?",
+    "What pharmacological agent is indicated for the treatment of presumed acute opioid intoxication in clinical settings?",
+    "Does the transcription factor BACH1 function as an activator or a suppressor of gene expression?",
+    "Are most driver gene mutations synonymous or non-synonymous?",
+    "What is the function of caspases?",
+    "Which infection can be prevented with Dapivirine?",
+    "Which genetic abnormality is most commonly associated with triple negative breast cancer?",
+    "What role does cryptochrome-1 play in the biological clock mechanisms of mice?",
+    "Which is the chromosomal location of the gene MAOA?",
+    "What is the effect of the direct interaction of Ikaros and Foxp1 in B-lymphocytes?",
+    "What is the indication for SLCO1B1 genotyping?",
+    "For which medical condition is Eliglustat prescribed as a treatment?",
+    "Which gene is most commonly associated with severe congenital and cyclic neutropenia?",
+    "For which type of intracranial neoplasm is the Simpson classification system utilized to evaluate the extent of surgical removal?",
+    "In breast cancer cases linked to Li-Fraumeni syndrome, what is the typical HER-2 expression status?",
+    "What role does the PABPC4 gene product play in cellular processes?",
+    "What specific cellular marker does Daratumumab bind to?",
+    "Which is the third subunit of the TSC1-TSC2 complex upstream of mTORC1?",
+    "For which cardiac conditions has Vanoxerine been repurposed?",
+    "What is the gene mutated in the Gaucher disease?",
+    "Which is the molecular target of the immunosuppressant drug Rapamycin?",
+    "Which are the smallest known subviral pathogens of plants?",
+    "Which cell type has the protein Chromogranin A as marker?",
+    "What is the standard RNA sequence recognized as the polyadenylation signal?",
+    "For which medical condition is the Galassi classification system utilized?",
+    "What software utilizes self-organizing maps to examine patterns in synonymous codon usage?",
+    "What is the mode of inheritance of Facioscapulohumeral muscular dystrophy (FSHD)?",
+    "Can you describe the biological function and receptor target of apelin?",
+    "What type of receptors can be assessed using the radioligand [18F]altanserin?",
+    "What family do mDia proteins belong in?",
+    "What memory problems are reported in the \" Gulf war syndrome\"",
+    "How does the binding of Ikaros to Foxp1 influence B-cell function?",
+    "Which gene is mutated in the Karak syndrome?",
+    "What is the key peptide involved in the formation of fibrils from human cystatin C?",
+    "Is the transcriptional regulator BACH1 an activator or a repressor?",
+    "In archaeological studies, what protein found in bones is utilized for determining age and identifying species?",
+    "Which drug was tested in the TEMSO Trial for multiple sclerosis?",
+    "How does the deletion of Rrm3p in Saccharomyces cerevisiae impact DNA replication?",
+    "What is the incidence of beta-thalassemia in Greek population?",
+    "How does eteplirsen function in individuals diagnosed with Duchenne Muscular Dystrophy?",
+    "Which is the transcript responsible for X-chromosome inactivation?",
+    "How many different mutations have been associated with Muenke syndrome?",
+    "What specific ion channel does flecainide primarily act upon to exert its anti-arrhythmic effects?",
+    "What is the applicability of the No Promoter Left Behind method?",
+    "How many genes are in the gene signature screened by MammaPrint?",
+    "What is the disease in which patients are sensitive to DNA crosslinking agents, presenting with a high frequency of chromosomal aberrations?",
+    "What is the estimated range of microbial inhabitants in a healthy human gastrointestinal tract?",
+    "How is short QT syndrome genetically transmitted?",
+    "In patients with Li-Fraumeni syndrome, what is the status of the Her2 receptor?",
+    "What is the incidence of Edwards syndrom in the european population?",
+    "What is the estimated frequency of cystic fibrosis occurrence among humans?",
+    "Which genes are responsible for causing tuberous sclerosis?",
+    "Which is the prevalence of cystic fibrosis in the human population?",
+    "Which enzyme is deficient in Krabbe disease?",
+    "Which translocation is the hallmark of Ewing sarcoma?",
+    "Which peripheral neuropathy has been associated with NDRG1 mutations?",
+    "What medication is primarily recommended as the initial therapeutic approach for fibromyalgia?",
+    "Which molecule is targeted by a monoclonal antibody Mepolizumab?",
+    "Which is the most common measure of differences between dinucleotide relative abundance \"genomic signatures\"",
+    "Which gene strand is targeted by transcription-coupled repair (TCR)?",
+    "What is the primary gene associated with mutations in Tay-Sachs disease?",
+    "According to the Palmini classification system, what neurological condition is assessed?",
+    "What specific chromosomal translocation is characteristically associated with Ewing sarcoma?",
+    "Where does CTCF colocalize with cohesin?",
+    "PBT2 has been tested for which disorder?",
+    "In which cells are A-type lamins expressed?",
+    "Where is the protein Pannexin1 located?",
+    "Which is the enzymatic activity of OTULIN?",
+    "What specific interleukin does the drug Siltuximab target and inhibit?",
+    "Which specific chromosome is involved in Turner syndrome?",
+    "Where are the orexigenic peptides synthesized?",
+    "Which is the genome browser database for DNA shape annotations?",
+    "Can you describe the congenital condition known as situs inversus?",
+    "Which pathway is activated by ficolin-3?",
+    "What histone modification is recognized by the bromodomain?",
+    "What is the lipid droplet used for in the cell?",
+    "Which syndrome is caused by deletion of Pds5b in mice?",
+    "In prokaryotes, which mechanism serves a similar function to RNA interference (RNAi) in gene silencing?",
+    "What is the count of non-MHC genes linked to Rheumatoid Arthritis via genome-wide association studies?",
+    "In what age group does pharmacological therapy for subclinical hypothyroidism show efficacy in lowering cardiovascular risk?",
+    "What percentage of the Greek population is affected by beta-thalassemia?",
+    "What type of DNA repair pathways is initiated by AlkA glycosylase?",
+    "Which is the physiological target for LeuRS translational quality control?",
+    "What chromosomal abnormality is primarily responsible for Patau syndrome?",
+    "What dietary adjustments can lower the risk of developing kidney stones?",
+    "Which syndrome is associated with mutant DVL1?",
+    "What genetic analysis is employed to diagnose X-linked myotubular myopathy?",
+    "Which specific histone modification marked by trimethylation is linked to the process of RNA splicing?",
+    "How is hyperosmia defined?",
+    "How is bladder wall thickness measured?",
+    "Which enzyme does MLN4924 inhibit?",
+    "Through which signaling pathway does SGK1 induce phosphorylation of FOXO3a to modulate cellular proliferation?",
+    "Which virus type causes Molluscum contagiosum?",
+    "What neurodevelopmental condition is caused by mutations in the MECP2 gene located on the X chromosome?",
+    "What is the cause of Phthiriasis Palpebrarum?",
+    "What was the purpose of the FANTOM4 project?",
+    "What is the approximate molecular mass of the protein angiogenin in Daltons?",
+    "In individuals diagnosed with Lesch-Nyhan Disease, which specific gene exhibits mutations?",
+    "How effective is the HPV vaccine in lowering the incidence of cervical cancer?",
+    "What transcript plays a key role in silencing the X chromosome?",
+    "Intact macromolecular assemblies are analysed by advanced mass spectrometry. How large complexes (in molecular weight) have been studied?",
+    "What is the predominant disorder caused by defective or missing primary cilia?",
+    "How is OCT3 associated with serotonin?",
+    "What specific regulatory protein initiates the betalain biosynthesis pathway?",
+    "What is situs inversus?",
+    "What tissue is commonly affected in Marfan's syndrome",
+    "What is the link between HOT regions and RNA polymerase recruitment?",
+    "What is the Her2 status in Li-Fraumeni syndrome?",
+    "What is the primary gene implicated in both severe congenital and cyclic forms of neutropenia?",
+    "What hormonal insufficiency is associated with Costello syndrome?",
+    "What is the substrate of the microbial enzyme inulinase?",
+    "Patients of which disease could be treated by utilizing knowledge obtained from experiments suppressing TDP-43 toxicity in yeast?",
+    "What specific protein serves as the binding target for the immunosuppressive medication cyclosporin A (CsA)?",
+    "What is the specific target phosphorylated by haspin kinase during mitosis?",
+    "What is the function of R-spondin 1 and noggin in non-damaged gallbladders?",
+    "What advantage does G6PD deficiency provide to individuals?",
+    "What type of enzyme is peroxiredoxin 2 (PRDX2)?",
+    "Can you provide the full form of the SAGA complex abbreviation?",
+    "To which solute carrier family does the FLVCR1 protein belong?",
+    "What is the role of IL-18BP?",
+    "Which hormone deficiency is implicated in the Costello syndrome ?",
+    "Between piggyBac and Sleeping Beauty transposons, which exhibits greater transposition efficiency?",
+    "For what purpose are antibiotics prescribed preventively in patients with chronic obstructive pulmonary disease?",
+    "How are Dax1 and Esrrb functionally connected in embryonic stem cells?",
+    "What is commotio cordis?",
+    "What roles do circular RNAs play in biological processes?",
+    "Which receptor's ligand is targeted by the drug Denosumab (Prolia)?",
+    "Which methyl-CpG-binding protein when mutant becomes the hallmark for Rett syndrome?",
+    "What specific coagulation factor does betrixaban target for inhibition?",
+    "Which is the most common type of pediatric cerebellar tumor?",
+    "On which chromosome and specific region is the MAOA gene situated?",
+    "What R/Bioconductor package facilitates visualization in integrative genomics?",
+    "What is dovitinib?",
+    "What is the enzymatic activity of the breast cancer associated gene BRCA1?",
+    "Which is the genetic basis of Spinal Muscular Atrophy (SMA)?",
+    "For which medical condition has PBT2 undergone testing?",
+    "Which R package is used for the detection of chromosomal abnormalities from microarray data?",
+    "What is the methyl donor of DNA (cytosine-5)-methyltransferases?",
+    "Which is the genetic defect causing Neurofibromatosis type 1?",
+    "What genetic disorder is associated with mutations in the BRAG1 gene?",
+    "How does activation of the sympathetic nervous system influence the size of the pupil?",
+    "Which R/bioconductor package utilizes the Hilbert curve in order to visualize genomic data?",
+    "Which is the neurodevelopmental disorder associated to mutations in the X- linked gene mecp2?",
+    "What is the association of spermidine with α-synuclein neurotoxicity?",
+    "How many selenoproteins are encoded in the human genome?",
+    "What is the mode of inheritance of Facioscapulohumeral muscular\ndystrophy (FSHD)?",
+    "In Philadelphia chromosome-positive chronic myelogenous leukemia, which tyrosine kinase enzyme, inhibited by the drug Imatinib (Gleevec), plays a critical role?",
+    "Which skin condition is commonly linked to gluten sensitivity?",
+    "Which chromatographic technique does the acronym HILIC stand for?",
+    "In which biological location does Akkermansia muciniphila typically inhabit?",
+    "Which hormone concentrations are altered in patients with the Allan–Herndon–Dudley syndrome?",
+    "Can you describe the pharmacological classification of dovitinib?",
+    "In Saccharomyces cerevisiae, what protein is responsible for facilitating the substitution of histone H2A with H2A.Z?",
+    "What computational tool can be utilized to examine evolutionarily conserved regions in genomes?",
+    "At what ages is Crohn's disease typically first diagnosed, and what might explain this pattern?",
+    "Which is the major symptom of the Doose syndrome?",
+    "Tripolin A acts as an inhibitor of which kinase?",
+    "Which enzyme is inhibited by niraparib?",
+    "Mutation of which gene is associated with McLeod syndrome?",
+    "Mutation of which gene is associated with Achondroplasia?",
+    "For which medical condition is Contrave typically recommended?",
+    "Which trancription factor activates the betalain pathway?",
+    "Idarucizumab is an antidote of which drug?",
+    "What form of lung carcinoma exhibits the strongest correlation with Lambert-Eaton myasthenic syndrome?",
+    "What term is used to describe clusters of ultraconserved elements?",
+    "How many microorganisms are present in human normal gut?",
+    "Against which protein is the antibody used for immonostaining of Lewy bodies raised?",
+    "How would you describe Dravet syndrome in medical terms?",
+    "In which specific compartment of the cell is the Opa1 protein primarily located?",
+    "Inhibition of which enzyme is mechanism of action of alisertib?",
+    "How is Fanconi anemia genetically transmitted, and are there any exceptions to this pattern?",
+    "Which protein mediates gene loop formation in the yeast S. cerevisiae?",
+    "Which molecule serves as the methyl group provider for DNA (cytosine-5)-methyltransferases during methylation?",
+    "Which are the coactivators of the Yes-associated protein (yap)?",
+    "What specific protein facilitates the binding of Argonaute 2 to both stress granules and processing bodies?",
+    "What role does N-Glycolylneuraminic acid (Neu5Gc) play in the immune system?",
+    "In which cells are gasdermins expressed?",
+    "What is the primary bacterial species that causes botulism, also referred to as sausage poisoning?",
+    "Which interleukin is blocked by Siltuximab?",
+    "How is oprozomib administered?",
+    "What is the function of cryptochrome-1 in mouse?",
+    "Which gene test can be used for the X-linked myotubular myopathy?",
+    "By what name is the medication Adempas known generically?",
+    "Which DNA repair mechanism is activated by AlkA glycosylase?",
+    "What is the tryptic peptide signature that indicates ubiquitination at a lysine residue?",
+    "Which cells secretes alpha defensin 5?",
+    "Where in the cell does the proteins S100A4 and p53 interact ?",
+    "Which is the chromosome area that the human gene coding for the dopamine transporter (DAT1) is located to?",
+    "In which condition was protein S100A7 originally identified?",
+    "What is the incidence of cystic fibrosis in the caucasian population?",
+    "What is the outcome of TAF10 interacting with the GATA1 transcription factor?",
+    "With which medication is benserazide typically combined in treatment?",
+    "What are the structures formed when keratin molecules come together?",
+    "Which color characterizes the protein Ranasmurfin?",
+    "What is the characteristic domain of histone methyltransferases?",
+    "Mutation of which gene is implicated in the familial isolated pituitary adenoma?",
+    "What endocrine dysfunction is frequently observed in individuals with Williams syndrome?",
+    "What is the disorder in which mutations in U4atac snRNA are detected?",
+    "In which cellular compartment is the APOBEC3B protein primarily located, the cytoplasm or the nucleus?",
+    "Which specific gene's mutation is associated with the development of Brain-lung-thyroid syndrome?",
+    "Which disease is associated with mutated Sox2?",
+    "At which genomic regions do CTCF and cohesin exhibit co-localization?",
+    "What specific molecule does the monoclonal antibody Mepolizumab bind to?",
+    "Which domain allowing self-association do exist in TDP-43 and FUS proteins?",
+    "How many disulfide bridges has the protein hepcidin got?",
+    "What is a benefit of being g6PD-deficient?",
+    "Which is the target protein of the drug nivolumab?",
+    "What is the specific enzyme targeted by the inhibitor MLN4924?",
+    "Where is base J found in the genome of Leishmania tarentolae?",
+    "What is the function of Neu5Gc (N-Glycolylneuraminic acid)?",
+    "What specific chromosomal translocation is present in the cells of an Askin tumor?",
+    "For what medical condition is taliglucerase alfa prescribed as a treatment?",
+    "Is the long non- coding RNA malat-1 up or downregulated in cancer?",
+    "What specific fusion protein plays a key role in the pathogenesis of Ewing sarcoma?",
+    "Which server is used for simulation of macromolecular diffusional association?",
+    "Which gene is required for the efficient function of clopidogrel?",
+    "Which is the defective protein causing the lysosomal storage disease Fabry?",
+    "Do the Sleeping Beauty or the piggyBac transposons have higher transposition efficiency?",
+    "Inhibition of which transporter is the mechanism of action of drug Canagliflozin?",
+    "What is the primary application of Trypan blue in biological studies?",
+    "Selexipag is used for which disease?",
+    "Which gene mutation causes Giant Axonal Neuropathy?",
+    "Does the H3K4me3 histone modification primarily associate with the start or continuation of transcription?",
+    "What is the aim of the TRAP assay?",
+    "Which gene is responsible for the development of Sotos syndrome?",
+    "What is the function of the spliceosome complex?",
+    "What genetic mutations link isolated Non-compaction cardiomyopathy to dilated cardiomyopathy?",
+    "Which growth factor does Rindopepimut mimic in its structure?",
+    "Where is the respirasome located?",
+    "What experimental method was instrumental in uncovering HOXD10's function in modulating lymphatic endothelial cell reactions to VEGF-C?",
+    "What is the drug target for Simtuzumab?",
+    "In which process Src, Cortactin and MT1-MMP are playing an essential role?",
+    "Upon inhibition of Hsp90, which specific heat shock protein exhibits increased expression levels?",
+    "In snails, what biological process is formin involved in?",
+    "What is the function of calcium-sensing receptor (CaSR)?",
+    "What specific microRNA is regulated by the SRY/Sox9 transcription factors?",
+    "Galassi classification is used for which disorder?",
+    "Which is the histone residue methylated by MLL1?",
+    "What factor influences the regulation of SerH3 immobilization antigen expression?",
+    "What is the genetic basis of tuberous sclerosis?",
+    "What is an approximate number of CTCF binding sites in the human genome?",
+    "What is the indication for prophylactic use of antibiotics in COPD?",
+    "What software is employed for analyzing promoter regions with CAGE sequencing data?",
+    "What neurodegenerative disorder is associated with the accumulation of Lewy bodies in the brain?",
+    "Which specific gene's mutation is associated with the development of familial isolated pituitary adenoma?",
+    "Which medication does idarucizumab counteract?",
+    "What is the predominant form of cerebellar tumor found in children?",
+    "Aleglitazar is agonist of which receptor?",
+    "Which type of lung cancer is the most strongly associated with Lambert-Eaton syndrome?",
+    "What genetic condition results from alterations in the NEMO gene?",
+    "What is the lay name of the treatment for CCSVI (chronic cerebro-spinal venous insufficiency)  in multiple sclerosis.",
+    "In clinical trials, the immunotherapeutic agents MK-3475 and CT-011 have demonstrated efficacy against various cancers. What specific cell surface receptor do these monoclonal antibodies bind to?",
+    "Which database is available for the identification of chorion proteins in Lepidopteran proteomes?",
+    "In healthy gallbladders, what role do R-spondin 1 and noggin play?",
+    "For which scientific study is Nothobranchius furzeri employed as a model organism?",
+    "What is the localization of the protein encoded by the gene DNAJC11?",
+    "What types of transcription factors act as coactivators for the Yes-associated protein (YAP)?",
+    "How is Acromicric dysplasia genetically transmitted?",
+    "Which is the substrate of the haspin kinase during mitosis?",
+    "What specific protein does the immunosuppressive medication Rapamycin act upon?",
+    "What is the sole genomics and developmental transcriptomics database specifically dedicated to the urochordate species Oikopleura dioica?",
+    "Under the present taxonomic system, to which biological kingdom are microsporidia assigned?",
+    "During the late 1990s, what was the rate of newly diagnosed X-linked adrenoleukodystrophy cases per 100,000 individuals in Australia and New Zealand?",
+    "What is the mode of inheritance of short QT syndrome?",
+    "Which is the most common editing modification in eukaryotic mRNA?",
+    "Which bacterial pathogen is responsible for woolsorter's disease?",
+    "In Krabbe disease, what specific enzyme is lacking or insufficient?",
+    "What is the generic name of the drug referred to as DX-88 in clinical trials?",
+    "What histone trimethylation has been associated to RNA splicing?",
+    "Which protein mediates the replacement of H2A by H2A.Z in the yeast Saccharomyces cerevisiae?",
+    "Which molecule is targeted by a monoclonal antibody Secukinumab?",
+    "What computational tool can be utilized to infer regulatory interactions using ChIP-seq datasets?",
+    "Which signaling pathway is activating the dishevelled proteins?",
+    "What is the typical length range, measured in kilobases, for a Long interspersed nuclear element (LINE)?",
+    "During what cellular mechanism do Src, Cortactin, and MT1-MMP serve critical functions?",
+    "In individuals diagnosed with Allan–Herndon–Dudley syndrome, which specific hormone levels are typically affected?",
+    "In which cellular structure is the respirasome found?",
+    "What is the name of the methyl-CpG-binding protein whose mutation is characteristic of Rett syndrome?",
+    "What is the name of the database that catalogs A-to-I RNA editing events with annotations?",
+    "In the sumoylation process of proteins, what function does the UBC9 enzyme serve?",
+    "What role does OCT3 play in the regulation of serotonin levels?",
+    "What is the primary CHEK2 gene alteration associated with hereditary breast cancer cases?",
+    "What was the primary objective of the FANTOM4 research initiative?",
+    "What is the main application of SWATH-MS in proteomics?",
+    "How many tissue kallikrein genes are present in the human genome?",
+    "Around how many CTCF binding sites are estimated to exist in the human genome?",
+    "What distinguishes B1 repeats from Alu repeats in terms of their biological relationship?",
+    "What nutrient deficiency is associated with restless leg syndrome?",
+    "What is the gene frequently mutated in Multiple endocrine neoplasia 2 (MEN2) and Hisrchsprung disease?",
+    "What is the original source of the Alu repetitive element in the genome?",
+    "What specific gene mutation is associated with CADASIL?",
+    "How is Facioscapulohumeral muscular dystrophy (FSHD) genetically transmitted?",
+    "Do alpha-spectrin and beta-spectrin subunits assemble into heterodimers in a parallel or antiparallel orientation?",
+    "What role does the BAX protein play in cellular processes?",
+    "For which medical condition is Selexipag prescribed?",
+    "Oxantel is used for periodontitis treatment. How does it work?",
+    "Which specific enzyme does alisertib target to exert its inhibitory effect?",
+    "Do the majority of mutations in driver genes result in amino acid changes or silent mutations?",
+    "What is the typical rash associated with gluten ?",
+    "How is connected \"isolated Non-compaction cardiomyopathy\" with dilated cardiomyopathy?",
+    "What is the inheritance pattern of Apert syndrome?",
+    "In which gender is Rheumatoid Arthritis predominantly observed?",
+    "What is the rate of survival after commotio cordis?",
+    "RTS S AS01 vaccine was developed to prevent which disease?",
+    "Which gene's mutation is associated with the development of Christianson syndrome?",
+    "To which genus does the European honey bee belong?",
+    "What is the presumed key event in Fanconi anemia pathogenesis?",
+    "Which enzyme is targeted by the drug Imetelstat?",
+    "In what proportion of children with heart failure has Enalapril been shown to be safe and effective?",
+    "What is the specific enzyme that Imetelstat acts upon?",
+    "What does polyadenylate-binding protein 4 (PABP4) bind to?",
+    "How many genes are imprinted in the human genome?",
+    "What is the total number of selenoprotein-coding genes present in the human genome?",
+    "What is the primary function of the protein encoded by the ABCC gene in humans?",
+    "On which chromosomal region is the DAT1 gene, responsible for encoding the dopamine transporter in humans, situated?",
+    "What is the content of the METLIN database?",
+    "Which is the major phytoalexin in alfalfa (Medicago sativa L.)?",
+    "What does mTOR stands for?",
+    "During which stage of the cell cycle is cohesin deposited on the yeast genome?",
+    "For which specific subtype of breast cancer is palbociclib indicated?",
+    "How common is short QT syndrome in the general population?",
+    "Which is the protein encoded by the human gene GRIK?",
+    "What is the regulatory gene responsible for the expression of GATA-1 isoforms?",
+    "In what type of cells can A-type lamins be found during the later stages of differentiation?",
+    "What can Nothobranchius furzeri be used as a model system for?",
+    "For which neurological condition has pridopidine been evaluated as a potential therapeutic intervention?",
+    "Which gene's mutation is linked to the development of McLeod syndrome?",
+    "What is the total number of genes present in the hoxD gene cluster in humans?",
+    "What is the percentage of responders to tetrabenazine treatment for dystonia in children?",
+    "What is the specific cellular signaling cascade that sonidegib acts upon to exert its inhibitory effects?",
+    "How would you describe an iatrogenic condition?",
+    "Which gene is associated with the Mitchell-Riley syndrome?",
+    "Which specific gene's mutation is linked to the development of Achondroplasia?",
+    "Identify the human selenoprotein characterized by multiple selenium-cysteine (Se-Cys) residues in its structure.",
+    "What is the name of the gene associated with the development of Majeed Syndrome?",
+    "Which pharmacogenetic test is available for abacavir?",
+    "What is the name of the computational platform designed for simulating the diffusional association of macromolecules?",
+    "Which protein does empagliflozin inhibit?",
+    "Which package is available for analysing genomic interactions in R/Bioconductor?",
+    "Can you define iatrogenic disease?",
+    "How many genes outside of the MHC locus have been genetically associated to Rheumatoid Arthritis through GWAS?",
+    "What is the incidence of new cases of X-linked adrenoleukodystrophy (ALD) in Australian and New Zealand in the late 1990's?",
+    "What is the name of the tumor suppressor protein known for its role in protecting the integrity of the genome?",
+    "What specific G protein plays a critical role in the development and operation of lamellipodia?",
+    "Which receptor does Palbociclib specifically act upon?",
+    "Identify the subunit of the SWI/SNF protein complex that interacts with the protein encoded by the FANCA gene.",
+    "What is the term for the stem-loop structure located at the 3' terminus of selenoprotein-coding genes?",
+    "Which R package is used for the analysis of genome-wide DNA methylation profiles?",
+    "What disease is mirtazapine predominantly used for?",
+    "What type of DNA repair mechanism is associated with Hereditary Nonpolyposis Colorectal Cancer (HNPCC)?",
+    "How does a modified thyroid function following cardiac surgery influence patient outcomes?",
+    "What chromosome is affected in Turner's syndrome?",
+    "What is the mode of inheritance of Romano Ward long QT syndrome?",
+    "What biological process is regulated by the interaction between TAF10 and the GATA1 transcription factor in mice?",
+    "Which is the relation between sweating and anaerobic threshold?",
+    "Which R package is used for visualization of linear and circular karyotypes?",
+    "Which is the process that Conserved noncoding elements mostly regulate?",
+    "How does CRD-BP influence the degradation resistance of c-myc mRNA?",
+    "Where in a protein can a signal sequence be found?",
+    "What specific protein does the medication nivolumab act upon?",
+    "For which type of diabetes can empagliflozin be used?",
+    "Which enzyme does Opicapone act to inhibit?",
+    "What is the name of the cyclin-dependent kinase inhibitor whose expression is controlled by Bmi-1?",
+    "What is the route of administration for oprozomib?",
+    "How do derivatives of 3,4-diaminobenzoic acid function within immune system regulation?",
+    "What is the name of Bruton's tyrosine kinase inhibitor that can be used for treatment of chronic lymphocytic leukemia?",
+    "Which type of cells is affected in Amyotrophic Lateral Sclerosis?",
+    "How does the gamma-secretase enzyme complex contribute to the development of Alzheimer's Disease?",
+    "In Bickerstaff's brainstem encephalitis, what type of antibody is typically involved?",
+    "What is the main symptom of Marfan syndrome patients?",
+    "Which tumor suppressor is referred to as \"the guardian of the genome\"?",
+    "Which DNA strand is specifically repaired by transcription-coupled repair (TCR)?",
+    "How is the long QT Jervell and Lange-Nielsen syndrome genetically transmitted?",
+    "What is the name of the third component in the TSC1-TSC2 complex that regulates mTORC1 activity?",
+    "For which medical condition is the ROSIER scale employed?",
+    "How many genes does the human hoxD cluster contain?",
+    "How does the presence of transcription factors in HOT regions influence the binding of RNA polymerase?",
+    "When was empagliflozin FDA approved?",
+    "What is the generic name of the drug referred to by the investigational code LY450139?",
+    "What is the synonym of the lubag disease?",
+    "Imetelstat acts as an inhibitor for which enzyme?",
+    "How can the expression of SerH3 immobilization antigen be regulated?",
+    "To which family does the Zika virus belong?",
+    "What type of pituitary tumor frequently leads to fertility issues in female patients?",
+    "How does hypothyroidism affect the clinical outcomes of individuals experiencing acute myocardial infarction?",
+    "Which enzyme deficiency can cause GM1 gangliosidoses?",
+    "Can you describe the function of the Groucho protein in Drosophila melanogaster?",
+    "What genetic disorder results from mutations in the Sox2 gene?",
+    "What is the usual diameter range for microtubules formed by tubulin heterodimers?",
+    "What is the total number of tissue kallikrein gene sequences identified in the human genome?",
+    "What is the genetic basis of Rubinstein-Taybi syndrome?",
+    "Which is the clinical meaning of the presence of delayed enhancement in patients with hypertrophic cardiomyopathy?",
+    "Which tool employs self organizing maps for analyzing synonymous codon usage?",
+    "In Friedreich's ataxia, what specific protein exhibits mutations?",
+    "What primary genetic disorder results from duplication of the Sox9 gene region?",
+    "In Sjogren's syndrome, what specific glands are targeted by lymphocyte-mediated destruction?",
+    "Which is the most important prognosis sub-classification in Chronic Lymphocytic Leukemia?",
+    "What is the enzymatic activity of PARL?",
+    "How does N6-methyladenosine (m6A) modification influence the characteristics of mRNA?",
+    "Which syndrome is associated with mutations in the LYST gene?",
+    "What enzyme is inhibied by Opicapone?",
+    "What is the frequency of mutations induced spontaneously through Ethylnitrosourea (ENU) mutagenesis?",
+    "What is the mode of inheritance for myotonic dystrophy?",
+    "What is the Svedberg unit measurement for the mitochondrial ribosome in mammals?",
+    "What percentage of splice sites in the human genome deviate from the canonical sequence?",
+    "In which ethnic groups is the HLA-B*1502 allele commonly found?",
+    "What is the primary purpose of the telomeric repeat amplification protocol (TRAP) assay?",
+    "What genetic disorder results from mutations in the DVL1 gene?",
+    "In cases of benzodiazepine toxicity, what pharmacological agent serves as the appropriate antidote?",
+    "Which fusion protein is involved in the development of Ewing sarcoma?",
+    "Where is Akkermansia muciniphila found?",
+    "What specific histone alteration is commonly found in glioma cases?",
+    "In which cellular structure is the metaxin complex found?",
+    "How does Nonidet-40 (NP-40) contribute to minimizing interference from endogenous biotinylated carboxylases in the isolation of nuclear proteins labeled with biotin?",
+    "Which peptide plays a pivotal role in human cystatin C fibrillization?",
+    "What is the name of the compound that selectively inhibits Nox1 and Nox4 enzymes?",
+    "Name monoclonal antibody against SLAMF7.",
+    "Does the single guide RNA contribute to the CRISPR/Cas9 mechanism or hinder its activity?",
+    "Which is the most typical peptide sequence responsible for retrieval of endoplasmic reticulum (ER) lumenal proteins from the Golgi apparatus?",
+    "Name synonym of Acrokeratosis paraneoplastica.",
+    "Mutation of which gene is implicated in the Christianson syndrome?",
+    "What is the primary clinical manifestation observed in individuals with Marfan syndrome?",
+    "What genetic mutation is responsible for the Vel blood group phenotype?",
+    "Which bone protein is used in archaelogy for dating and species identification?",
+    "Which specific antigen does daratumumab bind to?",
+    "For which medical condition is isradipine prescribed?",
+    "From what bacterial group is the mitochondrial ancestor believed to have evolved?",
+    "Which gene has been found to be mutant in Lesch-Nyhan Disease patients?",
+    "What viral infection does Dapivirine help protect against?",
+    "What is the function of circular RNA?",
+    "Is T-cell proliferation suppressed or enhanced by dasatinib?",
+    "What is apelin?",
+    "Which enzyme is targeted by Evolocumab?",
+    "Which disease is characterized by congenital absence of intrinsic ganglion cells of the gastrointestinal tract?",
+    "What fruit causes Jamaican vomiting sickness?",
+    "Alterations in which specific genetic sequence influence the effectiveness of both erlotinib and gefitinib therapies?",
+    "What is the mode of inheritance of  long QT  Jervell and Lange-Nielsen syndrome?",
+    "Viliuisk encephalomyelitis is diagnosed in which geographical area?",
+    "Which type of tissue is primarily impacted in individuals with Marfan's syndrome?",
+    "Which is the most common CFTR mutation in Caucasians?",
+    "Which is the cellular target of gefitinib?",
+    "What alternate indication has Vanoxerine been repositioned for?",
+    "By what scientific term is Gliolan also known?",
+    "Which medication should be administered when managing patients with suspected acute opioid overdose?",
+    "Throughout the cell cycle in human cells, which protein forms an interaction with Treslin/TICRR?",
+    "What biological process is primarily regulated by the Drp1 protein?",
+    "Could you explain what the RESID database encompasses?",
+    "Describe the three-dimensional architecture characteristic of bromodomain proteins.",
+    "Which enzyme is inhibited by Orteronel?",
+    "For which neurodegenerative disorder is aducanumab specifically designed as a treatment?",
+    "Which biomarker is widely used in the diagnosis of Ewing sarcoma?",
+    "What cognitive impairments related to memory are commonly observed in individuals diagnosed with Gulf War syndrome?",
+    "What is the time complexity of the Smith-Waterman algorithm when aligning two sequences?",
+    "During which specific stage of the cell cycle do Fanconi anemia cells exhibit defective arrest mechanisms?",
+    "In the majority of CADASIL syndrome cases, which amino acid is most frequently found to have undergone mutation?",
+    "How many cysteines have alpha-defensins?",
+    "Which is the prognostic impact of hypothyroidism in patients with acute myocardial infarction?",
+    "Which is the protein (antigen) targeted by anti-Vel antibodies in the Vel blood group?",
+    "In which phase of the cell cycle arrest is impaired in Fanconi anemia?",
+    "What gene test is recommended for clopidogrel?",
+    "What is the name of the enzyme responsible for breaking down mRNAs that have lost their 5' cap?",
+    "At what measurement of nuchal translucency is a pregnancy considered to have an elevated risk for Down Syndrome?",
+    "At which kind of individuals is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?",
+    "What genetic disorder is linked to mutations in the NHE6 gene?",
+    "Which is the genetic lesion associated with Huntington’s disease?",
+    "Mutation of which gene is implicated in the Brain-lung-thyroid syndrome?",
+    "Which molecule is targeted by Daratumumab?",
+    "What physiological function does LKB1 have in relation to Peutz-Jeghers syndrome?",
+    "What cardiac condition is the leading cause of unexpected fatalities in young athletes during physical activity?",
+    "Which properties of the mRNA does N6-methyladenosine (m6A) affect?",
+    "Which R / bioconductor package is used for performing SNP enrichment analysis?",
+    "What is another term used to refer to lubag disease?",
+    "Name a method for enrichment of arginine-methylated peptides.",
+    "What is the mechanism of viroid replication?",
+    "What specific gene is associated with the onset of Barth syndrome?",
+    "What is the viral agent responsible for Molluscum contagiosum?",
+    "What is the mode of inheritance in Fanconi anemia?",
+    "What does the SAGA complex acronym stands for?",
+    "Which glands are subject to attack by lymphocytes in Sjogren's syndrome?",
+    "In the initial postoperative phase following coronary artery bypass grafting, what common metabolic change is observed in thyroid function tests?",
+    "What is the genus for the common European honey bee?",
+    "Gene silencing can be achieved by RNA interference (RNAi) in eukaryotic organisms. What is the name of the analogous process in prokaryotic organisms?",
+    "Can specific genes linked to hair color variation serve as valuable markers in forensic investigations?",
+    "In which region of the brain are orexigenic peptides produced?",
+    "DX-88 is investigational name of which drug?",
+    "In which cellular structure is the protein Cep135 located?",
+    "What function does the RUNX1-MYEF2 complex perform in erythroid cells?",
+    "What is the predominant type of RNA editing alteration observed in eukaryotic messenger RNA?",
+    "What are 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin', and 'dutogliptin'?",
+    "What molecular method is employed to identify EWS/FLI1 fusion transcripts?",
+    "Which is the gene most commonly mutated in Tay-Sachs disease?",
+    "Which software package is available for the analysis of conserved genomic loci?",
+    "What non-invasive method can be utilized to identify the Rhesus status of a fetus?",
+    "What is the key prognostic factor used to sub-classify Chronic Lymphocytic Leukemia?",
+    "What is the indication of ARCALYST?",
+    "How does enamel matrix derivative influence the regenerative capacity of dental pulp cells?",
+    "Among anti-TNF medications, which one has the broadest clinical application?",
+    "For which medical condition is Daonil (Glibenclamide) prescribed?",
+    "According to data from the International Fanconi Anemia Registry (IFAR), what is the minimum probability of Fanconi anemia patients developing acute myelogenous leukemia?",
+    "What is the most effective therapeutic intervention for managing a headache caused by low cerebrospinal fluid pressure?",
+    "How is Marchesani syndrome genetically transmitted?",
+    "What is the conserved branch point sequence found in U12-type introns?",
+    "Which molecule is recognized and bound by polyadenylate-binding protein 4 (PABP4)?",
+    "What gene is mutated in Sickle Cell Anemia?",
+    "During embryonic development, what biological roles does the AIRE gene perform?",
+    "What is the specific enzyme that Varespladib acts upon to inhibit its activity?",
+    "What specific biochemical function does the OTULIN enzyme perform?",
+    "By what alternative name is Willis-Ekbom disease commonly referred?",
+    "Which compound is a specific inhibitor for Nox1 and Nox4?",
+    "Which signaling pathway does sonidegib inhibit?",
+    "What is the ubiquitin proteome?",
+    "Which specific protein domain is typically associated with histone methyltransferases?",
+    "On which polysaccharide does the enzyme inulinase primarily act?",
+    "What is the clinical significance of delayed enhancement observed in individuals with hypertrophic cardiomyopathy?",
+    "What genetic alteration is responsible for episodic ataxia type 6?",
+    "What is the name of the JAK inhibitor that has received approval for managing rheumatoid arthritis?",
+    "For which type of cancer is Velcade (bortezomib) primarily prescribed?",
+    "Which receptor is targeted by telcagepant?",
+    "Which technique led to the elucidation of the role of HOXD10 in regulating lymphatic endothelial responses to VEGF-C?",
+    "How is Hunter syndrome, also known as mucopolysaccharidosis II, genetically transmitted?",
+    "Which essential element is required for the proper functioning of MMP proteins?",
+    "Which value of nuchal translucency thickness is set as the threshold for high-risk for Down Syndrome?",
+    "In which phase of cell cycle does  stress-induced transcription-associated mutagenesis (TAM) occur?",
+    "For what purpose is the No Promoter Left Behind approach utilized in genomic studies?",
+    "Which is the most known bacterium responsible for botulism (sausage-poisoning)?",
+    "For which psychological disorder is mirtazapine primarily prescribed?",
+    "What is the function of BAX",
+    "Which is the RNA sequence of the canonical polyadenylation signal?",
+    "To which disease does the loss of CD28 expression by liver-infiltrating T cells contribute?",
+    "What percentage of individuals survive following an incident of commotio cordis?",
+    "What is plantar fasciitis",
+    "In which year was the vaccine for polio first introduced to the public?",
+    "What is the prognostic role of alterred thyroid profile after cardiosurgery?",
+    "Which transcription factor is considered as a master regulator of lysosomal genes?",
+    "Which specific gene undergoes mutation in individuals with Huntington's disease?",
+    "What role do caspases play in cellular processes?",
+    "What disease in Loxapine prominently used for?",
+    "What is the functional role of the protein Drp1?",
+    "What is the total number of distinct genetic mutations linked to Muenke syndrome?",
+    "Which hormone abnormalities are common in Williams syndrome ?",
+    "Which amino acid residue appears mutated in most of the cases reported with  cadasil syndrome?",
+    "Which tropical fruit is known to induce vomiting sickness in Jamaica?",
+    "What is the molecular function of psoralen photobinding on DNA?",
+    "Which is the relation between coffee consumption and stroke risk?",
+    "At what phase in the cell cycle does cohesin attach to the yeast genome?",
+    "What is the effect induced by sympathetic nervous system on pupil size?",
+    "What is the structural fold of bromodomain proteins?",
+    "What distinguishes lantibiotics from antibiotics?",
+    "Which hormone abnormalities are characteristic to Pendred syndrome?",
+    "What is the characteristic amino acid sequence at the C-terminus that directs ER lumenal proteins to be transported back from the Golgi complex?",
+    "For which neurodegenerative disorder could therapeutic strategies be developed by studying the inhibition of TDP-43 toxicity in yeast models?",
+    "For which medical condition is ARCALYST prescribed?",
+    "How does thapsigargin impact cellular processes?",
+    "Which disease is treated with taliglucerase alfa?",
+    "What specific genetic alteration leads to the industrial melanism observed in peppered moths?",
+    "Orteronel was developed for treatment of which cancer?",
+    "Which enzyme is inhibited by a drug fostamatinib?",
+    "What is the link between Dax1 and Esrrb?",
+    "What organism is responsible for causing Phthiriasis Palpebrarum?",
+    "What is the prevalence of short QT syndrome?",
+    "What is the predominant metric used to quantify variations in dinucleotide relative abundance patterns, known as 'genomic signatures'?",
+    "Which mutation is associated with PLMS (periodic limb movements in sleep)?",
+    "What is the function of the protein encoded by the gene PABPC4?",
+    "Which autophagy pathway is trigered by the KFERQ motif of cytosolic proteins?",
+    "In which chromosomal region is the TAZ (G4.5) gene found in the human genome?",
+    "Which genetic test is advised for patients prescribed clopidogrel?",
+    "Which hormone receptor function is altered in patients with Donohue syndrome?",
+    "What disease is Velcade (bortezomib) mainly used for?",
+    "What technique can be employed to isolate peptides with arginine methylation modifications?",
+    "Which specific transporter does the drug Canagliflozin target to exert its inhibitory effect?",
+    "Does dasatinib promote or inhibit T-cell proliferation?",
+    "Which is the prognostic meaning of delayed enhancement documented in patients hypertrophic cardiomyopathy?",
+    "What biological process is primarily influenced by conserved noncoding elements?",
+    "What is the name of the R package designed for identifying chromosomal anomalies in microarray datasets?",
+    "Does cancer involve a decrease in overall DNA methylation alongside increased methylation at specific CpG islands?",
+    "What is the indication of Daonil (Glibenclamide)?",
+    "What is the role of the RUNX1-MYEF2 complex?",
+    "Which peak calling algorithm employs mixture model clustering under the hood?",
+    "Could you describe the purpose of the Pfam database?",
+    "Which is the  subcellular localization of ERAP2?",
+    "What is the color of the protein Ranasmurfin?",
+    "What is the molecular function of the Chd1 protein?"
+  ],
+  "answers": [
+    [
+      "mpMoRFsDB"
+    ],
+    [
+      "Chediak-Higashi syndrome"
+    ],
+    [
+      "Alpha-synuclein"
+    ],
+    [
+      "telomerase"
+    ],
+    [
+      "Anorexia Athletica"
+    ],
+    [
+      "libFLASM"
+    ],
+    [
+      "1954"
+    ],
+    [
+      "2014"
+    ],
+    [
+      "BRG1"
+    ],
+    [
+      "cleaves a precursor protein to create the amyloid beta peptide"
+    ],
+    [
+      "deltaF508"
+    ],
+    [
+      "0.5  to 3  per 100,000 athletes per year"
+    ],
+    [
+      "To provide comprehensive expression profiles and functional annotation of mammalian cell-type-specific transcriptomes with wide applications in biomedical research."
+    ],
+    [
+      "EGFRvIII"
+    ],
+    [
+      "Christianson syndrome"
+    ],
+    [
+      "Valproate"
+    ],
+    [
+      "Reads Per Kilobase per Million mapped reads (RPKM)"
+    ],
+    [
+      "XRN1"
+    ],
+    [
+      "proteomic sample preparation"
+    ],
+    [
+      "Mutations or/and deletions in the genes of the cAMP-response element binding protein-BP (CREBBP) (50-60% of the cases) and of the homologous gene E1A-binding protein (EP300) at 22q13 (5%)."
+    ],
+    [
+      "Craniosynostosis"
+    ],
+    [
+      "Carboxyl terminus of hsc70-interacting protein (CHIP)"
+    ],
+    [
+      "autosomal recessive"
+    ],
+    [
+      "prolactinoma"
+    ],
+    [
+      "Oxantel disrupts polymicrobial biofilm"
+    ],
+    [
+      "peroxisome proliferator-activated receptor-α/γ"
+    ],
+    [
+      "proteomic sample preparation"
+    ],
+    [
+      "RANKL"
+    ],
+    [
+      "Amino Acid-DepeLysosomal Membrane Protein SLC38A9"
+    ],
+    [
+      " nuclear"
+    ],
+    [
+      "methylKit"
+    ],
+    [
+      "Yersinia pestis"
+    ],
+    [
+      "Experimental autoimmune encephalomyelitis (EAE)"
+    ],
+    [
+      "METLIN is a metabolite database containing tandem mass spectrometry data for each metabolite."
+    ],
+    [
+      "Left-Right Asymmetry"
+    ],
+    [
+      "T-type calcium channels"
+    ],
+    [
+      "rolling cycle"
+    ],
+    [
+      "24nm - 25 nm"
+    ],
+    [
+      "autosomal recessive"
+    ],
+    [
+      "Hydrophilic Interaction Chromatography"
+    ],
+    [
+      "Viroids"
+    ],
+    [
+      "medicarpin"
+    ],
+    [
+      "JNK"
+    ],
+    [
+      "CisMapper"
+    ],
+    [
+      "stroke"
+    ],
+    [
+      "SLC49"
+    ],
+    [
+      "1/100000"
+    ],
+    [
+      "transposable element insertion"
+    ],
+    [
+      "it supresses cell cytokines and differentiation genes"
+    ],
+    [
+      "Heterodimeric Rag GTPases"
+    ],
+    [
+      "Intraflagellar transport (IFT) motor protein DYNC2H1"
+    ],
+    [
+      "Fanconi anemia"
+    ],
+    [
+      "SECIS"
+    ],
+    [
+      "intensity-based absolute quantification"
+    ],
+    [
+      "Coordination of the progression of helicase and DNA polymerase alpha at the eukaryotic replication fork."
+    ],
+    [
+      "Incontinentia pigmenti or Bloch-Sulzberger syndrome"
+    ],
+    [
+      "Both euchromatin and heterochromatin"
+    ],
+    [
+      "Amino Acid-DepeLysosomal Membrane Protein SLC38A9"
+    ],
+    [
+      "The glutamine-rich prion-related domain (PRD)"
+    ],
+    [
+      "LPIN2"
+    ],
+    [
+      "Autosomal XX sex reversal"
+    ],
+    [
+      "LOXL2"
+    ],
+    [
+      "HLA B*5701 genotyping"
+    ],
+    [
+      "Both nucleolar and cytoplasmic"
+    ],
+    [
+      "plasma membrane"
+    ],
+    [
+      "semagacestat"
+    ],
+    [
+      "flumazenil"
+    ],
+    [
+      "Notch3 gene"
+    ],
+    [
+      "7SL RNA"
+    ],
+    [
+      "SUMO-conjugating enzyme"
+    ],
+    [
+      "intensity-based absolute quantification"
+    ],
+    [
+      "Cornelia de Lange syndrome."
+    ],
+    [
+      "acute ischemic stroke"
+    ],
+    [
+      "Flaviviridae"
+    ],
+    [
+      "Global hypomethylation is coupled with focal hypermethylation at CpG islands"
+    ],
+    [
+      "Fusarium oxysporum f. sp. cubense"
+    ],
+    [
+      "human telomerase reverse transcriptase"
+    ],
+    [
+      "H3K4"
+    ],
+    [
+      "HBB"
+    ],
+    [
+      "Ret"
+    ],
+    [
+      "Aganlionic megacolon or Hirschsprung disease"
+    ],
+    [
+      "Lys-ɛ-Gly-Gly (K-ɛ-GG) is the remnant produced by trypsin digestion of proteins having ubiquitinated lysine side chains."
+    ],
+    [
+      "2.3 megadalton"
+    ],
+    [
+      "Chd1 is an ATP-dependent DNA helicase"
+    ],
+    [
+      "Trichotillomania is a hair pulling disorder."
+    ],
+    [
+      "luminal side of the endoplasmic reticulum"
+    ],
+    [
+      "E3 ubiquitin ligase activity"
+    ],
+    [
+      "autosomal dominant"
+    ],
+    [
+      "LepChorionDB"
+    ],
+    [
+      "PARL are serine proteases"
+    ],
+    [
+      "autosomal dominant"
+    ],
+    [
+      "(G/T)GGGCGG(G/A)(G/A)(C/T)"
+    ],
+    [
+      "mpMoRFsDB"
+    ],
+    [
+      "riociguat"
+    ],
+    [
+      "The study of protein-protein interactions in a physiologically relevant developing context."
+    ],
+    [
+      "T-type calcium channels"
+    ],
+    [
+      "GAN gene"
+    ],
+    [
+      "JNK"
+    ],
+    [
+      "orexin"
+    ],
+    [
+      "connective tissue"
+    ],
+    [
+      "NF1"
+    ],
+    [
+      "Women"
+    ],
+    [
+      "Epidermal growth factor receptor (EGFR)"
+    ],
+    [
+      "Cervical precancer and similar neoplasias were reduced by 84-100%"
+    ],
+    [
+      "iron"
+    ],
+    [
+      "in the intestinal crypt base columnar cells"
+    ],
+    [
+      "myoclonic astatic epilepsy"
+    ],
+    [
+      "lipid inositol phosphatase activity"
+    ],
+    [
+      "secretory phospholipase A2"
+    ],
+    [
+      "Trichotillomania is a hair pulling disorder."
+    ],
+    [
+      "GBshape"
+    ],
+    [
+      "schizophrenia"
+    ],
+    [
+      "Intestinal Paneth cells secretes alpha-defensin 5"
+    ],
+    [
+      "Han Chinese and other Asian populations, except Japanese"
+    ],
+    [
+      "epidermal growth factor receptor (EGFR) gene"
+    ],
+    [
+      "Trisome 13"
+    ],
+    [
+      "Sushi.R"
+    ],
+    [
+      "lipid storage and lipid mobilization"
+    ],
+    [
+      "Coordination of the progression of helicase and DNA polymerase alpha at the eukaryotic replication fork."
+    ],
+    [
+      "Schistosoma spp"
+    ],
+    [
+      "Rac1"
+    ],
+    [
+      "antiganglioside antibody"
+    ],
+    [
+      "alpha-Synuclein"
+    ],
+    [
+      "Schistosoma spp"
+    ],
+    [
+      "GBshape"
+    ],
+    [
+      "The glutamine-rich prion-related domain (PRD)"
+    ],
+    [
+      "K27M in H3.3"
+    ],
+    [
+      "Diabetes mellitus"
+    ],
+    [
+      "p16INK4"
+    ],
+    [
+      "Norvaline"
+    ],
+    [
+      "it is rapidly concentrated"
+    ],
+    [
+      "Three"
+    ],
+    [
+      "1:2000"
+    ],
+    [
+      "To provide comprehensive expression profiles and functional annotation of mammalian cell-type-specific transcriptomes with wide applications in biomedical research."
+    ],
+    [
+      "telomeric repeats"
+    ],
+    [
+      "HSP70"
+    ],
+    [
+      "between 10,000 and 20,000"
+    ],
+    [
+      "Nestin"
+    ],
+    [
+      "A severe epilepsy of chidhood"
+    ],
+    [
+      "The Pfam database is a collection of curated protein families."
+    ],
+    [
+      "Reads Per Kilobase per Million mapped reads (RPKM)"
+    ],
+    [
+      "Obesity"
+    ],
+    [
+      "increased olfactory acuity"
+    ],
+    [
+      "The calcium-sensing receptor (CaSR) is a G-protein-coupled receptor that plays an essential role in maintaining calcium homeostasis."
+    ],
+    [
+      "interleukin-17A"
+    ],
+    [
+      "X-linked intellectual disability"
+    ],
+    [
+      "Single guide RNA is part of the CRISPR/Cas9 system."
+    ],
+    [
+      "epidural blood patch"
+    ],
+    [
+      "Thapsigargin is a sarcoplasmic/endoplasmic Ca(2+)-ATPase (SERCA) inhibitor."
+    ],
+    [
+      "Fusarium oxysporum f. sp. cubense"
+    ],
+    [
+      "Immune Defence"
+    ],
+    [
+      "tofacitinib"
+    ],
+    [
+      "chaperone-mediated autophagy (CMA)"
+    ],
+    [
+      "The DAL cluster"
+    ],
+    [
+      "Ataxin-3"
+    ],
+    [
+      "Mitotic arrest"
+    ],
+    [
+      "Microcephalic osteodysplastic primordial dwarfism type I (MOPDI)"
+    ],
+    [
+      "blunt thoracic impact causing sudden death"
+    ],
+    [
+      "Ultrasound"
+    ],
+    [
+      "Anorexia Athletica"
+    ],
+    [
+      "Carboxyl terminus of hsc70-interacting protein (CHIP)"
+    ],
+    [
+      "Ataxin 2"
+    ],
+    [
+      "Inhibition of the oxytocinase subfamily of M1 aminopeptidases with immune-regulating properties."
+    ],
+    [
+      "cytochrome P450, CYPC19"
+    ],
+    [
+      "Ataxin-3"
+    ],
+    [
+      "cyclophilin"
+    ],
+    [
+      "MDM two binding protein (MTBP)"
+    ],
+    [
+      "epidermal growth factor receptor"
+    ],
+    [
+      "Both euchromatin and heterochromatin"
+    ],
+    [
+      "Between 1% and 2% "
+    ],
+    [
+      "missense substitution, Met1Val (M1V), in the DCX gene."
+    ],
+    [
+      "SGLT2"
+    ],
+    [
+      "LIberation therapy"
+    ],
+    [
+      "gene regulatory blocks (GRBs)"
+    ],
+    [
+      "0.5  to 3  per 100,000 athletes per year"
+    ],
+    [
+      "Fibroblast Growth Factor Receptor 3 (FGFR3)"
+    ],
+    [
+      "Serine 129"
+    ],
+    [
+      "At least 15%, based on the International Fanconi Anemia Registry (IFAR)"
+    ],
+    [
+      "Serine 5"
+    ],
+    [
+      "LKB1 plays a physiological role in controlling the Wnt-signaling."
+    ],
+    [
+      "Alpha defensins contain six conserved cysteines"
+    ],
+    [
+      "traseR"
+    ],
+    [
+      "Xa"
+    ],
+    [
+      "Ixodes ricinus"
+    ],
+    [
+      "Mutation in NF1 gene."
+    ],
+    [
+      "TAILS: Terminal Amine Isotopic Labeling of Substrates"
+    ],
+    [
+      "Groucho (Gro) is a Drosophila melanogaster transcriptional corepressor"
+    ],
+    [
+      "a 17 nucleotide deletion"
+    ],
+    [
+      "The ubiquitin/proteasome pathway"
+    ],
+    [
+      "FANCD2 monoubiquitination"
+    ],
+    [
+      "β-galactosidase"
+    ],
+    [
+      "orexin"
+    ],
+    [
+      "Restless legs syndrome"
+    ],
+    [
+      "reducing sodium"
+    ],
+    [
+      "Lack of the yeast Rrm3p DNA helicase causes replication defects at multiple sites within ribosomal DNA (rDNA), including at the replication fork barrier (RFB)."
+    ],
+    [
+      "Parkinson's disease (PD)"
+    ],
+    [
+      "Fungi"
+    ],
+    [
+      " fewer than 100"
+    ],
+    [
+      "Heterodimeric Rag GTPases"
+    ],
+    [
+      "TAILS: Terminal Amine Isotopic Labeling of Substrates"
+    ],
+    [
+      "CD38"
+    ],
+    [
+      "Alpha-synuclein"
+    ],
+    [
+      "alpha-galactosidase A"
+    ],
+    [
+      "Ataxin 2"
+    ],
+    [
+      "There is an inverse correlation between inflammatory markers and FT3 circulating levels"
+    ],
+    [
+      "14,120 Da"
+    ],
+    [
+      "autosomal dominant"
+    ],
+    [
+      "autosomal dominant or autosomal recessive"
+    ],
+    [
+      "focal cortical dysplasia"
+    ],
+    [
+      "globus pallidus internus"
+    ],
+    [
+      "Autosomal dominant"
+    ],
+    [
+      "it is rapidly concentrated"
+    ],
+    [
+      "30x-60x"
+    ],
+    [
+      "X-linked recessive pattern of inheritance"
+    ],
+    [
+      "EAAT1 mutations"
+    ],
+    [
+      "IL-1β"
+    ],
+    [
+      "70 genes"
+    ],
+    [
+      "IL-18 binding protein (IL-18BP) is a natural inhibitor of IL-18. The balance between IL-18 and IL-18BP has an important role in the inflammatory setting."
+    ],
+    [
+      "The DAL cluster"
+    ],
+    [
+      "Craniosynostosis"
+    ],
+    [
+      "The sodium channel"
+    ],
+    [
+      "IgG4"
+    ],
+    [
+      "Gaucher's disease type 1"
+    ],
+    [
+      "below 300-330 msec"
+    ],
+    [
+      "The RESID Database of Protein Modifications is a comprehensive collection of annotations and structures for protein modifications and cross-links including pre-, co-, and post-translational modifications"
+    ],
+    [
+      "5-HT2A"
+    ],
+    [
+      "PD-1"
+    ],
+    [
+      "Statin treatment"
+    ],
+    [
+      "Fibroblast Growth Factor Receptor 3 (FGFR3)"
+    ],
+    [
+      "Biologists agree that the ancestor of mitochondria was an alpha-proteobacterium."
+    ],
+    [
+      "Ixodes ricinus"
+    ],
+    [
+      "Three"
+    ],
+    [
+      "insulin receptor"
+    ],
+    [
+      "Lantibiotics are post-translationally modified natural peptides containing lanthionine"
+    ],
+    [
+      "stationary phase"
+    ],
+    [
+      "Aurora A"
+    ],
+    [
+      "transcriptional initiation"
+    ],
+    [
+      "zinc"
+    ],
+    [
+      "lectin complement pathway"
+    ],
+    [
+      "Yes, there are at least 12 genes associated with human hair color variation such as: TYR, TYRP1, OCA2, SLC45A2, SLC24A5, MC1R, ASIP and KITLG."
+    ],
+    [
+      "Tuberous Sclerosis is caused by hyperactivation of the mTOR signalling pathway."
+    ],
+    [
+      "Intermediate filaments"
+    ],
+    [
+      "Between 20,000 and 25,000"
+    ],
+    [
+      "Rotor syndrome"
+    ],
+    [
+      "Reverse transcription - polymerase chain reaction (RT-PCR)"
+    ],
+    [
+      "thyroid hormone abnormalities"
+    ],
+    [
+      "Multiple myeloma"
+    ],
+    [
+      "Diabetes mellitus"
+    ],
+    [
+      "The comprehensive characterization of the mouse transcriptome."
+    ],
+    [
+      "malaria"
+    ],
+    [
+      "To protect c-myc CRD from endonucleolytic attack."
+    ],
+    [
+      "BRCA1 dysfunction"
+    ],
+    [
+      "Serine 5"
+    ],
+    [
+      "Bacillus Anthracis"
+    ],
+    [
+      "proprotein convertase subtilisin/kexin type 9"
+    ],
+    [
+      "libFLASM"
+    ],
+    [
+      "mir-138"
+    ],
+    [
+      "quadratic"
+    ],
+    [
+      "In HNPCC, the mismatch DNA repair system is involved."
+    ],
+    [
+      "stem cell renewal and self-immune tolerance"
+    ],
+    [
+      "glutamate receptor ionotropic kainate"
+    ],
+    [
+      "BCR-ABL"
+    ],
+    [
+      "hormone receptor-positive, human epidermal growth factor receptor 2-negative"
+    ],
+    [
+      "lipid inositol phosphatase activity"
+    ],
+    [
+      "It intercalates into the double helix."
+    ],
+    [
+      "nucleus"
+    ],
+    [
+      "lumbosacral"
+    ],
+    [
+      "Reduction of contamination by endogenous biotinylated carboxylases during purification of biotin tagged nuclear proteins."
+    ],
+    [
+      "In patients with hypertrophic cardiomyopathy delayed enhancement is associated with heart failure symptoms and left ventricular systolic dysfunction and arrhythmic risk"
+    ],
+    [
+      "Teriflunomide"
+    ],
+    [
+      "CD99"
+    ],
+    [
+      "upregulated"
+    ],
+    [
+      "The comprehensive characterization of the mouse transcriptome."
+    ],
+    [
+      "GBshape"
+    ],
+    [
+      "Interleukin-17"
+    ],
+    [
+      "autosomal dominant"
+    ],
+    [
+      "Oxytocin"
+    ],
+    [
+      "mDia proteins are members of the formin family"
+    ],
+    [
+      "acute ischemic stroke"
+    ],
+    [
+      "Charcot-Marie-Tooth (CMT) 4D disease"
+    ],
+    [
+      "r3Cseq"
+    ],
+    [
+      "Oxytocin"
+    ],
+    [
+      "There is no clear evidence of the relationship between sweating and anaerobic threshold"
+    ],
+    [
+      "The study of protein-protein interactions in a physiologically relevant developing context."
+    ],
+    [
+      "CYP17A1"
+    ],
+    [
+      "tuberculosis"
+    ],
+    [
+      "Xq28"
+    ],
+    [
+      "The excision of introns from nascent eukaryotic transcripts is catalyzed by the spliceosome."
+    ],
+    [
+      "Pregabalin"
+    ],
+    [
+      "skipping of dystrophin exon 51"
+    ],
+    [
+      "globus pallidus internus"
+    ],
+    [
+      "Between 20,000 and 25,000"
+    ],
+    [
+      "Low T3 syndrome occurs frequently after CABG"
+    ],
+    [
+      "cell viability - cell death assessment"
+    ],
+    [
+      "meningioma"
+    ],
+    [
+      "Immune Defence"
+    ],
+    [
+      "Serine 129"
+    ],
+    [
+      "RFX6"
+    ],
+    [
+      "Selenoprotein P"
+    ],
+    [
+      "CAGEr"
+    ],
+    [
+      "neuroendocrine cells"
+    ],
+    [
+      "(G/T)GGGCGG(G/A)(G/A)(C/T)"
+    ],
+    [
+      "up to > 60%"
+    ],
+    [
+      "30x-60x"
+    ],
+    [
+      "The coffee paradox in stroke: Increased consumption linked with fewer strokes."
+    ],
+    [
+      "Alzheimer's disease"
+    ],
+    [
+      "Spermidine protects against α-synuclein neurotoxicity"
+    ],
+    [
+      "signaling lymphocytic activation molecule-F7"
+    ],
+    [
+      "hypertrophic cardiomyopathy"
+    ],
+    [
+      "Mitotic arrest"
+    ],
+    [
+      "HilbertVis"
+    ],
+    [
+      "Intraflagellar transport (IFT) motor protein DYNC2H1"
+    ],
+    [
+      "connective tissue"
+    ],
+    [
+      "Motor neurons"
+    ],
+    [
+      "Nestin"
+    ],
+    [
+      "Etanercept"
+    ],
+    [
+      "50% to 80%"
+    ],
+    [
+      "cerebral hemiatrophy"
+    ],
+    [
+      "frontonasal dysplasia"
+    ],
+    [
+      "reciprocal translocation t(11;22) (q24;q12)"
+    ],
+    [
+      "A CAG trinucleotide repeat expansion in the HD gene"
+    ],
+    [
+      "IL-1β"
+    ],
+    [
+      "Tafazzin (TAZ) gene"
+    ],
+    [
+      "X-linked recessive pattern of inheritance"
+    ],
+    [
+      "spleen tyrosine kinase"
+    ],
+    [
+      "type 2 diabetes mellitus"
+    ],
+    [
+      "Autosomal dominant"
+    ],
+    [
+      "RADAR"
+    ],
+    [
+      "CHEK2 1100delC mutation"
+    ],
+    [
+      "5-aminolevulinic acid"
+    ],
+    [
+      "dipeptidyl peptidase-4 (DPP-4) inhibitors"
+    ],
+    [
+      "PU.1"
+    ],
+    [
+      "HTT or  IT-15 gene or HD gene"
+    ],
+    [
+      "ATP dependent small molecule transporter"
+    ],
+    [
+      "programmed cell death 1"
+    ],
+    [
+      "Positive"
+    ],
+    [
+      "Multiple myeloma"
+    ],
+    [
+      "NF1"
+    ],
+    [
+      "castration-resistant prostate cancer"
+    ],
+    [
+      "Autosomal dominant"
+    ],
+    [
+      "epithelial cells"
+    ],
+    [
+      "Ibrutinib"
+    ],
+    [
+      "lumbosacral"
+    ],
+    [
+      "Poly(ADP-ribose) Polymerase"
+    ],
+    [
+      "below 300-330 msec"
+    ],
+    [
+      "Interleukin-17"
+    ],
+    [
+      "55 S"
+    ],
+    [
+      "Transcription factor EB (TFEB)"
+    ],
+    [
+      "it is the mouse homolog to the left Alu monomer"
+    ],
+    [
+      "Hepcidin contains eight cysteine residues that form four disulfide bridges"
+    ],
+    [
+      "IgG4"
+    ],
+    [
+      "in the intestinal crypt base columnar cells"
+    ],
+    [
+      "free fetal DNA from maternal cirulcation"
+    ],
+    [
+      "chromDraw"
+    ],
+    [
+      "Tuberous Sclerosis is caused by hyperactivation of the mTOR signalling pathway."
+    ],
+    [
+      "calcitonin gene-related peptide"
+    ],
+    [
+      "antiparallel"
+    ],
+    [
+      "Wnt signaling"
+    ],
+    [
+      "1:5000"
+    ],
+    [
+      "UUCCUUAAC"
+    ],
+    [
+      "Frataxin"
+    ],
+    [
+      "Polycystic kidney disease (PKD)"
+    ],
+    [
+      "To the outer mitochondrial membrane."
+    ],
+    [
+      "The identification and quantification of any protein."
+    ],
+    [
+      "mitochondrial inner membrane"
+    ],
+    [
+      "SMIM1"
+    ],
+    [
+      "human telomerase reverse transcriptase"
+    ],
+    [
+      "Valproate"
+    ],
+    [
+      "cytomegalovirus"
+    ],
+    [
+      "Acetylated lysines"
+    ],
+    [
+      "JAMM"
+    ],
+    [
+      "Point mutations"
+    ],
+    [
+      "Huntington disease"
+    ],
+    [
+      "L-Dopa"
+    ],
+    [
+      "Northeast Siberia"
+    ],
+    [
+      "frontonasal dysplasia"
+    ],
+    [
+      "psoriasis"
+    ],
+    [
+      "TFIIB"
+    ],
+    [
+      "Prostaglandin I(2)"
+    ],
+    [
+      "glucocerebrosidase"
+    ],
+    [
+      "6-7 kb"
+    ],
+    [
+      "between 10,000 and 20,000"
+    ],
+    [
+      "OikoBase"
+    ],
+    [
+      "Experimental autoimmune encephalomyelitis (EAE)"
+    ],
+    [
+      "Prion-like domain"
+    ],
+    [
+      "cytomegalovirus"
+    ],
+    [
+      "There is an inverse correlation between inflammatory markers and FT3 circulating levels"
+    ],
+    [
+      "Rotor syndrome"
+    ],
+    [
+      "it supresses cell cytokines and differentiation genes"
+    ],
+    [
+      "Hypertension"
+    ],
+    [
+      "Beta glucocerebrosidase"
+    ],
+    [
+      "NSD1 gene"
+    ],
+    [
+      "Bazex syndrome"
+    ],
+    [
+      "heel pain"
+    ],
+    [
+      "Both nucleolar and cytoplasmic"
+    ],
+    [
+      "Crohn's disease has a bimodal age distribution of disease onset diagnosis. The peaks (20 and 50 years) may represent different phenotypes or different genetic and/or environmental influences between younger- and older-onset individuals."
+    ],
+    [
+      "The molecular genetic basis of spinal muscular atrophy (SMA), an autosomal recessive neuromuscular disorder, is the loss of function of the survival motor neuron gene (SMN1)"
+    ],
+    [
+      "mitochondrial intermembrane space"
+    ],
+    [
+      "autosomal dominant"
+    ],
+    [
+      "Hsp90"
+    ],
+    [
+      "autosomal dominant"
+    ],
+    [
+      "Primary sclerosing cholangitis"
+    ],
+    [
+      "tuberculosis"
+    ],
+    [
+      "mammalian target of rapamycin"
+    ],
+    [
+      "PLA2G6"
+    ],
+    [
+      "increase of the osteogenic potential of hDPCs"
+    ],
+    [
+      "centrosome"
+    ],
+    [
+      "N-terminally"
+    ],
+    [
+      "Point mutations"
+    ],
+    [
+      "The mTOR pathway"
+    ],
+    [
+      "antioxidant"
+    ],
+    [
+      "The ubiquitin proteome is the entire set ubiquitinated proteins and of their respective ubiquitination sites."
+    ],
+    [
+      "cerebral hemiatrophy"
+    ],
+    [
+      "X- linked recessive"
+    ],
+    [
+      "Beta glucocerebrosidase"
+    ],
+    [
+      "Prostaglandin I(2)"
+    ],
+    [
+      "The ubiquitin/proteasome pathway"
+    ],
+    [
+      "programmed cell death 1"
+    ],
+    [
+      "Yersinia pestis"
+    ],
+    [
+      "naloxone"
+    ],
+    [
+      "Repressor"
+    ],
+    [
+      "non-synonymous"
+    ],
+    [
+      "Caspases are intracellular proteases that propagate programmed cell death, proliferation, and inflammation."
+    ],
+    [
+      "HIV"
+    ],
+    [
+      "BRCA1 dysfunction"
+    ],
+    [
+      "component of the central and peripheral circadian clocks for generation of circadian rhythms in mice"
+    ],
+    [
+      "Xp21-p11"
+    ],
+    [
+      "Modulation of expression of the G protein-coupled receptor G2A."
+    ],
+    [
+      "Statin treatment"
+    ],
+    [
+      "Gaucher's disease type 1"
+    ],
+    [
+      "The neutrophil elastase gene (ELANE)"
+    ],
+    [
+      "meningioma"
+    ],
+    [
+      "Positive"
+    ],
+    [
+      "PABC4 is important for mRNA stability and translation initiation, in chronic inflammation and in the pathogenesis of colorectal cancer."
+    ],
+    [
+      "CD38"
+    ],
+    [
+      "TBC1D7"
+    ],
+    [
+      "atrial fibrillation and flutter"
+    ],
+    [
+      "glucocerebrosidase"
+    ],
+    [
+      "mTOR"
+    ],
+    [
+      "Viroids"
+    ],
+    [
+      "neuroendocrine cells"
+    ],
+    [
+      "AAUAAA"
+    ],
+    [
+      "arachnoid cyst"
+    ],
+    [
+      "INCA"
+    ],
+    [
+      "autosomal dominant"
+    ],
+    [
+      "Apelin, a small regulatory peptide, is the endogenous ligand for the apelin receptor (APJ) receptor."
+    ],
+    [
+      "5-HT2A"
+    ],
+    [
+      "mDia proteins are members of the formin family"
+    ],
+    [
+      "memory loss"
+    ],
+    [
+      "Modulation of expression of the G protein-coupled receptor G2A."
+    ],
+    [
+      "PLA2G6"
+    ],
+    [
+      "LQVVR"
+    ],
+    [
+      "Repressor"
+    ],
+    [
+      "Collagen"
+    ],
+    [
+      "Teriflunomide"
+    ],
+    [
+      "Lack of the yeast Rrm3p DNA helicase causes replication defects at multiple sites within ribosomal DNA (rDNA), including at the replication fork barrier (RFB)."
+    ],
+    [
+      "8%"
+    ],
+    [
+      "skipping of dystrophin exon 51"
+    ],
+    [
+      "Xist"
+    ],
+    [
+      "One"
+    ],
+    [
+      "The sodium channel"
+    ],
+    [
+      "Learning de novo promoter architectures from genome-wide transcription start sites."
+    ],
+    [
+      "70 genes"
+    ],
+    [
+      "Fanconi anemia"
+    ],
+    [
+      "10 to 100 trillions microorganisms."
+    ],
+    [
+      "autosomal dominant mode of inheritance"
+    ],
+    [
+      "Her2 status is positive"
+    ],
+    [
+      "1:5000"
+    ],
+    [
+      "0.7–7/100000 inhabitants"
+    ],
+    [
+      "TSC1 and TSC2 genes"
+    ],
+    [
+      "0.7–7/100000 inhabitants"
+    ],
+    [
+      "galactocerebrosidase"
+    ],
+    [
+      "translocation t(11;22) (q24;12)"
+    ],
+    [
+      "Charcot-Marie-Tooth (CMT) 4D disease"
+    ],
+    [
+      "Pregabalin"
+    ],
+    [
+      "interleukin-5"
+    ],
+    [
+      "delta-distance"
+    ],
+    [
+      "the transcribed strand"
+    ],
+    [
+      "HEXA"
+    ],
+    [
+      "focal cortical dysplasia"
+    ],
+    [
+      "translocation t(11;22) (q24;12)"
+    ],
+    [
+      "In imprinted and repressed, highly compacted loci that are prone to recombination events."
+    ],
+    [
+      "Alzheimer's disease"
+    ],
+    [
+      "late differentiating primary cells"
+    ],
+    [
+      "plasma membrane"
+    ],
+    [
+      "deubiquitination"
+    ],
+    [
+      "interleukin-6"
+    ],
+    [
+      "X"
+    ],
+    [
+      "The orexigenic peptides are sythesized in the hypothalamus."
+    ],
+    [
+      "GBshape"
+    ],
+    [
+      "Situs inversus totalis is a rare congenital anomaly with a complete mirror image of the thoracic and abdominal organs."
+    ],
+    [
+      "lectin complement pathway"
+    ],
+    [
+      "Acetylated lysines"
+    ],
+    [
+      "lipid storage and lipid mobilization"
+    ],
+    [
+      "Cornelia de Lange syndrome."
+    ],
+    [
+      "CRISPR-Cas"
+    ],
+    [
+      "more than 30"
+    ],
+    [
+      "effective in younger individuals"
+    ],
+    [
+      "8%"
+    ],
+    [
+      "base excision repair (BER) pathway"
+    ],
+    [
+      "Norvaline"
+    ],
+    [
+      "Trisome 13"
+    ],
+    [
+      "reducing sodium"
+    ],
+    [
+      "Robinow syndrome"
+    ],
+    [
+      "MTM1 gene test"
+    ],
+    [
+      "H3K36me3"
+    ],
+    [
+      "increased olfactory acuity"
+    ],
+    [
+      "Ultrasound"
+    ],
+    [
+      "NEDD8-activating enzyme"
+    ],
+    [
+      "The mTOR pathway"
+    ],
+    [
+      "human poxvirus"
+    ],
+    [
+      "Rett syndrome"
+    ],
+    [
+      "Pthirus pubis"
+    ],
+    [
+      "Better understand the transcriptional network that regulates macrophage differentiation"
+    ],
+    [
+      "14,120 Da"
+    ],
+    [
+      "Hypoxanthine guanine phosphoribosyl transferase (HPRT) gene"
+    ],
+    [
+      "Cervical precancer and similar neoplasias were reduced by 84-100%"
+    ],
+    [
+      "Xist"
+    ],
+    [
+      "2.3 megadalton"
+    ],
+    [
+      "Polycystic kidney disease (PKD)"
+    ],
+    [
+      "serotonin clearance"
+    ],
+    [
+      "The beet Y locus encodes an anthocyanin MYB-like protein that activates the betalain red pigment pathway."
+    ],
+    [
+      "Situs inversus totalis is a rare congenital anomaly with a complete mirror image of the thoracic and abdominal organs."
+    ],
+    [
+      "connective tissue"
+    ],
+    [
+      "Transcription-factor occupancy at HOT regions quantitatively predicts RNA polymerase recruitment."
+    ],
+    [
+      "Her2 status is positive"
+    ],
+    [
+      "The neutrophil elastase gene (ELANE)"
+    ],
+    [
+      "Growth hormone deficiency"
+    ],
+    [
+      "The inulinase acts on the beta-(2,1)-D-fructoside links in inulin releasing D-fructose."
+    ],
+    [
+      "Amyotrophic lateral sclerosis (ALS)"
+    ],
+    [
+      "cyclophilin"
+    ],
+    [
+      "Histone 3 at Thr3"
+    ],
+    [
+      "The expansion of resident stem cells."
+    ],
+    [
+      "There is evidence of increased resistance to malaria."
+    ],
+    [
+      "antioxidant"
+    ],
+    [
+      "Spt-Ada-Gcn5-acetyltransferase"
+    ],
+    [
+      "SLC49"
+    ],
+    [
+      "IL-18 binding protein (IL-18BP) is a natural inhibitor of IL-18. The balance between IL-18 and IL-18BP has an important role in the inflammatory setting."
+    ],
+    [
+      "Growth hormone deficiency"
+    ],
+    [
+      "piggyBac"
+    ],
+    [
+      "Reduction of number of exacerbations"
+    ],
+    [
+      "Dax1 associates with Esrrb and regulates its function in embryonic stem cells."
+    ],
+    [
+      "blunt thoracic impact causing sudden death"
+    ],
+    [
+      "Recent research has revealed that circRNAs can function as microRNA (miRNA) sponges, regulators of splicing and transcription, and modifiers of parental gene expression."
+    ],
+    [
+      "RANKL"
+    ],
+    [
+      "Methyl-CpG-binding protein 2 (MECP2)"
+    ],
+    [
+      "Xa"
+    ],
+    [
+      "Medulloblastoma"
+    ],
+    [
+      "Xp21-p11"
+    ],
+    [
+      "Sushi.R"
+    ],
+    [
+      "tyrosine kinase receptor inhibitor"
+    ],
+    [
+      "E3 ubiquitin ligase activity"
+    ],
+    [
+      "The molecular genetic basis of spinal muscular atrophy (SMA), an autosomal recessive neuromuscular disorder, is the loss of function of the survival motor neuron gene (SMN1)"
+    ],
+    [
+      "Alzheimer's disease"
+    ],
+    [
+      "CAFE"
+    ],
+    [
+      "S-adenosyl-L-methionine"
+    ],
+    [
+      "Mutation in NF1 gene."
+    ],
+    [
+      "X-linked intellectual disability"
+    ],
+    [
+      "pupillary dilatation (increase of the pupil size)"
+    ],
+    [
+      "HilbertVis"
+    ],
+    [
+      "Rett syndrome"
+    ],
+    [
+      "Spermidine protects against α-synuclein neurotoxicity"
+    ],
+    [
+      "25"
+    ],
+    [
+      "autosomal dominant"
+    ],
+    [
+      "BCR-ABL"
+    ],
+    [
+      "dermatitis herpetiformis"
+    ],
+    [
+      "Hydrophilic Interaction Chromatography"
+    ],
+    [
+      "Akkermansia muciniphila resides in the gastrointestinal tracts of humans and animals."
+    ],
+    [
+      "Thyroid"
+    ],
+    [
+      "tyrosine kinase receptor inhibitor"
+    ],
+    [
+      "SWR1"
+    ],
+    [
+      "PHYLUCE"
+    ],
+    [
+      "Crohn's disease has a bimodal age distribution of disease onset diagnosis. The peaks (20 and 50 years) may represent different phenotypes or different genetic and/or environmental influences between younger- and older-onset individuals."
+    ],
+    [
+      "myoclonic astatic epilepsy"
+    ],
+    [
+      "Aurora A"
+    ],
+    [
+      "Poly(ADP-ribose) Polymerase"
+    ],
+    [
+      "XK"
+    ],
+    [
+      "fibroblast growth factor receptor 3 (FGFR3)"
+    ],
+    [
+      "Obesity"
+    ],
+    [
+      "The beet Y locus encodes an anthocyanin MYB-like protein that activates the betalain red pigment pathway."
+    ],
+    [
+      "dabigatran"
+    ],
+    [
+      "small-cell lung cancer"
+    ],
+    [
+      "gene regulatory blocks (GRBs)"
+    ],
+    [
+      "10 to 100 trillions microorganisms."
+    ],
+    [
+      "alpha-Synuclein"
+    ],
+    [
+      "A severe epilepsy of chidhood"
+    ],
+    [
+      "mitochondrial intermembrane space"
+    ],
+    [
+      "aurora kinase"
+    ],
+    [
+      "Autosomal recessive, except for FANCB, which is X-linked."
+    ],
+    [
+      "TFIIB"
+    ],
+    [
+      "S-adenosyl-L-methionine"
+    ],
+    [
+      "Tead (TEA domain) transcription factors."
+    ],
+    [
+      "Hsp90"
+    ],
+    [
+      "Neu5Gc is an immune message to self"
+    ],
+    [
+      "epithelial cells"
+    ],
+    [
+      "Clostridium botulinum"
+    ],
+    [
+      "interleukin-6"
+    ],
+    [
+      "Orally"
+    ],
+    [
+      "component of the central and peripheral circadian clocks for generation of circadian rhythms in mice"
+    ],
+    [
+      "MTM1 gene test"
+    ],
+    [
+      "riociguat"
+    ],
+    [
+      "base excision repair (BER) pathway"
+    ],
+    [
+      "Lys-ɛ-Gly-Gly (K-ɛ-GG) is the remnant produced by trypsin digestion of proteins having ubiquitinated lysine side chains."
+    ],
+    [
+      "Intestinal Paneth cells secretes alpha-defensin 5"
+    ],
+    [
+      "nucleus"
+    ],
+    [
+      "5p15.3"
+    ],
+    [
+      "psoriasis"
+    ],
+    [
+      "1:2000"
+    ],
+    [
+      "Control of Mouse Erythropoiesis"
+    ],
+    [
+      "L-Dopa"
+    ],
+    [
+      "Intermediate filaments"
+    ],
+    [
+      "Blue"
+    ],
+    [
+      "SET domain"
+    ],
+    [
+      "aryl hydrocarbon receptor interacting protein"
+    ],
+    [
+      "thyroid"
+    ],
+    [
+      "Microcephalic osteodysplastic primordial dwarfism type I (MOPDI)"
+    ],
+    [
+      " nuclear"
+    ],
+    [
+      "thyroid transcription factor 1"
+    ],
+    [
+      "SOX2 anophthalmia syndrome"
+    ],
+    [
+      "In imprinted and repressed, highly compacted loci that are prone to recombination events."
+    ],
+    [
+      "interleukin-5"
+    ],
+    [
+      "Prion-like domain"
+    ],
+    [
+      "Hepcidin contains eight cysteine residues that form four disulfide bridges"
+    ],
+    [
+      "There is evidence of increased resistance to malaria."
+    ],
+    [
+      "programmed death receptor-1"
+    ],
+    [
+      "NEDD8-activating enzyme"
+    ],
+    [
+      "telomeric repeats"
+    ],
+    [
+      "Neu5Gc is an immune message to self"
+    ],
+    [
+      "reciprocal translocation t(11;22) (q24;q12)"
+    ],
+    [
+      "Gaucher disease"
+    ],
+    [
+      "upregulated"
+    ],
+    [
+      "EWS/FLI1"
+    ],
+    [
+      "webSDA"
+    ],
+    [
+      "cytochrome P450, CYPC19"
+    ],
+    [
+      "alpha-galactosidase A"
+    ],
+    [
+      "piggyBac"
+    ],
+    [
+      "sodium glucose co-transporter 2"
+    ],
+    [
+      "cell viability - cell death assessment"
+    ],
+    [
+      "pulmonary arterial hypertension"
+    ],
+    [
+      "GAN gene"
+    ],
+    [
+      "transcriptional initiation"
+    ],
+    [
+      "Telomerase enzyme activity can be detected in whole cell lysates by a polymerase chain reaction (PCR)-based method referred to as the telomeric repeat amplification protocol (TRAP)."
+    ],
+    [
+      "NSD1 gene"
+    ],
+    [
+      "The excision of introns from nascent eukaryotic transcripts is catalyzed by the spliceosome."
+    ],
+    [
+      "via mutations in beta-MHC and alpha-TPM1"
+    ],
+    [
+      "EGFRvIII"
+    ],
+    [
+      "In the inner mitochondrial membrane"
+    ],
+    [
+      "DeepCAGE"
+    ],
+    [
+      "LOXL2"
+    ],
+    [
+      "Src, Cortactin and MT1-MMP play an essential role in the formation and function of invadopodia."
+    ],
+    [
+      "HSP70"
+    ],
+    [
+      "Left-Right Asymmetry"
+    ],
+    [
+      "The calcium-sensing receptor (CaSR) is a G-protein-coupled receptor that plays an essential role in maintaining calcium homeostasis."
+    ],
+    [
+      "mir-138"
+    ],
+    [
+      "arachnoid cyst"
+    ],
+    [
+      "H3K4"
+    ],
+    [
+      "Temperature regulation"
+    ],
+    [
+      "TSC1 and TSC2 genes"
+    ],
+    [
+      "30,000-50,000"
+    ],
+    [
+      "Reduction of number of exacerbations"
+    ],
+    [
+      "CAGEr"
+    ],
+    [
+      "Parkinson's disease (PD)"
+    ],
+    [
+      "aryl hydrocarbon receptor interacting protein"
+    ],
+    [
+      "dabigatran"
+    ],
+    [
+      "Medulloblastoma"
+    ],
+    [
+      "peroxisome proliferator-activated receptor-α/γ"
+    ],
+    [
+      "small-cell lung cancer"
+    ],
+    [
+      "Incontinentia pigmenti or Bloch-Sulzberger syndrome"
+    ],
+    [
+      "LIberation therapy"
+    ],
+    [
+      "PD-1"
+    ],
+    [
+      "LepChorionDB"
+    ],
+    [
+      "The expansion of resident stem cells."
+    ],
+    [
+      "aging research"
+    ],
+    [
+      "mitochondrial inner membrane"
+    ],
+    [
+      "Tead (TEA domain) transcription factors."
+    ],
+    [
+      "autosomal dominant"
+    ],
+    [
+      "Histone 3 at Thr3"
+    ],
+    [
+      "mTOR"
+    ],
+    [
+      "OikoBase"
+    ],
+    [
+      "Fungi"
+    ],
+    [
+      "1.6 per 100,000 people"
+    ],
+    [
+      "autosomal dominant mode of inheritance"
+    ],
+    [
+      "A-to-I"
+    ],
+    [
+      "Bacillus Anthracis"
+    ],
+    [
+      "galactocerebrosidase"
+    ],
+    [
+      "Ecallantide"
+    ],
+    [
+      "H3K36me3"
+    ],
+    [
+      "SWR1"
+    ],
+    [
+      "interleukin-17A"
+    ],
+    [
+      "CisMapper"
+    ],
+    [
+      "Wnt signaling"
+    ],
+    [
+      "6-7 kb"
+    ],
+    [
+      "Src, Cortactin and MT1-MMP play an essential role in the formation and function of invadopodia."
+    ],
+    [
+      "Thyroid"
+    ],
+    [
+      "In the inner mitochondrial membrane"
+    ],
+    [
+      "Methyl-CpG-binding protein 2 (MECP2)"
+    ],
+    [
+      "RADAR"
+    ],
+    [
+      "SUMO-conjugating enzyme"
+    ],
+    [
+      "serotonin clearance"
+    ],
+    [
+      "CHEK2 1100delC mutation"
+    ],
+    [
+      "Better understand the transcriptional network that regulates macrophage differentiation"
+    ],
+    [
+      "The identification and quantification of any protein."
+    ],
+    [
+      "15"
+    ],
+    [
+      "30,000-50,000"
+    ],
+    [
+      "it is the mouse homolog to the left Alu monomer"
+    ],
+    [
+      "iron"
+    ],
+    [
+      "Ret"
+    ],
+    [
+      "7SL RNA"
+    ],
+    [
+      "Notch3 gene"
+    ],
+    [
+      "autosomal dominant"
+    ],
+    [
+      "antiparallel"
+    ],
+    [
+      "bax promotes Apoptosis"
+    ],
+    [
+      "pulmonary arterial hypertension"
+    ],
+    [
+      "Oxantel disrupts polymicrobial biofilm"
+    ],
+    [
+      "aurora kinase"
+    ],
+    [
+      "non-synonymous"
+    ],
+    [
+      "dermatitis herpetiformis"
+    ],
+    [
+      "via mutations in beta-MHC and alpha-TPM1"
+    ],
+    [
+      "Autosomal dominant"
+    ],
+    [
+      "Women"
+    ],
+    [
+      "10-28%"
+    ],
+    [
+      "malaria"
+    ],
+    [
+      "SLC9A6"
+    ],
+    [
+      "Apis"
+    ],
+    [
+      "FANCD2 monoubiquitination"
+    ],
+    [
+      "Human Telomerase"
+    ],
+    [
+      "50% to 80%"
+    ],
+    [
+      "Human Telomerase"
+    ],
+    [
+      "PABP4  binds mRNA poly(A) tails."
+    ],
+    [
+      " fewer than 100"
+    ],
+    [
+      "25"
+    ],
+    [
+      "ATP dependent small molecule transporter"
+    ],
+    [
+      "5p15.3"
+    ],
+    [
+      "METLIN is a metabolite database containing tandem mass spectrometry data for each metabolite."
+    ],
+    [
+      "medicarpin"
+    ],
+    [
+      "mammalian target of rapamycin"
+    ],
+    [
+      "S-phase"
+    ],
+    [
+      "hormone receptor-positive, human epidermal growth factor receptor 2-negative"
+    ],
+    [
+      "0.01% -0.1%"
+    ],
+    [
+      "glutamate receptor ionotropic kainate"
+    ],
+    [
+      "PU.1"
+    ],
+    [
+      "late differentiating primary cells"
+    ],
+    [
+      "aging research"
+    ],
+    [
+      "Huntington disease"
+    ],
+    [
+      "XK"
+    ],
+    [
+      "9"
+    ],
+    [
+      "up to > 60%"
+    ],
+    [
+      "Hedghog signalling pathway"
+    ],
+    [
+      "illness caused by treatment"
+    ],
+    [
+      "RFX6"
+    ],
+    [
+      "fibroblast growth factor receptor 3 (FGFR3)"
+    ],
+    [
+      "Selenoprotein P"
+    ],
+    [
+      "LPIN2"
+    ],
+    [
+      "HLA B*5701 genotyping"
+    ],
+    [
+      "webSDA"
+    ],
+    [
+      "SGLT2"
+    ],
+    [
+      "r3Cseq"
+    ],
+    [
+      "illness caused by treatment"
+    ],
+    [
+      "more than 30"
+    ],
+    [
+      "1.6 per 100,000 people"
+    ],
+    [
+      "p53"
+    ],
+    [
+      "Rac1"
+    ],
+    [
+      "epidermal growth factor receptor"
+    ],
+    [
+      "BRG1"
+    ],
+    [
+      "SECIS"
+    ],
+    [
+      "methylKit"
+    ],
+    [
+      "major depression"
+    ],
+    [
+      "In HNPCC, the mismatch DNA repair system is involved."
+    ],
+    [
+      "Altered thyroid profile after cardiosurgery is associated with several events in adults and in children"
+    ],
+    [
+      "X"
+    ],
+    [
+      "autosomal dominant"
+    ],
+    [
+      "Control of Mouse Erythropoiesis"
+    ],
+    [
+      "There is no clear evidence of the relationship between sweating and anaerobic threshold"
+    ],
+    [
+      "chromDraw"
+    ],
+    [
+      "Development"
+    ],
+    [
+      "To protect c-myc CRD from endonucleolytic attack."
+    ],
+    [
+      "N-terminally"
+    ],
+    [
+      "programmed death receptor-1"
+    ],
+    [
+      "type 2 diabetes mellitus"
+    ],
+    [
+      "catechol-O-methyltransferase"
+    ],
+    [
+      "p16INK4"
+    ],
+    [
+      "Orally"
+    ],
+    [
+      "Inhibition of the oxytocinase subfamily of M1 aminopeptidases with immune-regulating properties."
+    ],
+    [
+      "Ibrutinib"
+    ],
+    [
+      "Motor neurons"
+    ],
+    [
+      "cleaves a precursor protein to create the amyloid beta peptide"
+    ],
+    [
+      "antiganglioside antibody"
+    ],
+    [
+      "aortic root dissection"
+    ],
+    [
+      "p53"
+    ],
+    [
+      "the transcribed strand"
+    ],
+    [
+      "autosomal recessive"
+    ],
+    [
+      "TBC1D7"
+    ],
+    [
+      "stroke"
+    ],
+    [
+      "9"
+    ],
+    [
+      "Transcription-factor occupancy at HOT regions quantitatively predicts RNA polymerase recruitment."
+    ],
+    [
+      "2014"
+    ],
+    [
+      "semagacestat"
+    ],
+    [
+      "X-linked dystonia-parkinsonism"
+    ],
+    [
+      "telomerase"
+    ],
+    [
+      "Temperature regulation"
+    ],
+    [
+      "Flaviviridae"
+    ],
+    [
+      "prolactinoma"
+    ],
+    [
+      "Low T3 Syndrome isassociatedwithpoor prognosis in patients with acute myocardial infarction"
+    ],
+    [
+      "β-galactosidase"
+    ],
+    [
+      "Groucho (Gro) is a Drosophila melanogaster transcriptional corepressor"
+    ],
+    [
+      "SOX2 anophthalmia syndrome"
+    ],
+    [
+      "24nm - 25 nm"
+    ],
+    [
+      "15"
+    ],
+    [
+      "Mutations or/and deletions in the genes of the cAMP-response element binding protein-BP (CREBBP) (50-60% of the cases) and of the homologous gene E1A-binding protein (EP300) at 22q13 (5%)."
+    ],
+    [
+      "In patients with hypertrophic cardiomyopathy delayed enhancement is associated with heart failure symptoms and left ventricular systolic dysfunction and arrhythmic risk"
+    ],
+    [
+      "INCA"
+    ],
+    [
+      "Frataxin"
+    ],
+    [
+      "Autosomal XX sex reversal"
+    ],
+    [
+      "The lacrimal and/or salivary glands"
+    ],
+    [
+      "The mutational status of the IGHV genes."
+    ],
+    [
+      "PARL are serine proteases"
+    ],
+    [
+      "mRNA stability"
+    ],
+    [
+      "Chediak-Higashi syndrome"
+    ],
+    [
+      "catechol-O-methyltransferase"
+    ],
+    [
+      "1/100000"
+    ],
+    [
+      "autosomal dominant"
+    ],
+    [
+      "55 S"
+    ],
+    [
+      "Between 1% and 2% "
+    ],
+    [
+      "Han Chinese and other Asian populations, except Japanese"
+    ],
+    [
+      "Telomerase enzyme activity can be detected in whole cell lysates by a polymerase chain reaction (PCR)-based method referred to as the telomeric repeat amplification protocol (TRAP)."
+    ],
+    [
+      "Robinow syndrome"
+    ],
+    [
+      "flumazenil"
+    ],
+    [
+      "EWS/FLI1"
+    ],
+    [
+      "Akkermansia muciniphila resides in the gastrointestinal tracts of humans and animals."
+    ],
+    [
+      "K27M in H3.3"
+    ],
+    [
+      "To the outer mitochondrial membrane."
+    ],
+    [
+      "Reduction of contamination by endogenous biotinylated carboxylases during purification of biotin tagged nuclear proteins."
+    ],
+    [
+      "LQVVR"
+    ],
+    [
+      "GKT136901"
+    ],
+    [
+      "signaling lymphocytic activation molecule-F7"
+    ],
+    [
+      "Single guide RNA is part of the CRISPR/Cas9 system."
+    ],
+    [
+      "the carboxyl-terminal Lys-Asp-Glu-Leu (KDEL)"
+    ],
+    [
+      "Bazex syndrome"
+    ],
+    [
+      "SLC9A6"
+    ],
+    [
+      "aortic root dissection"
+    ],
+    [
+      "a 17 nucleotide deletion"
+    ],
+    [
+      "Collagen"
+    ],
+    [
+      "CD38"
+    ],
+    [
+      "Hypertension"
+    ],
+    [
+      "Biologists agree that the ancestor of mitochondria was an alpha-proteobacterium."
+    ],
+    [
+      "Hypoxanthine guanine phosphoribosyl transferase (HPRT) gene"
+    ],
+    [
+      "HIV"
+    ],
+    [
+      "Recent research has revealed that circRNAs can function as microRNA (miRNA) sponges, regulators of splicing and transcription, and modifiers of parental gene expression."
+    ],
+    [
+      "inhibits"
+    ],
+    [
+      "Apelin, a small regulatory peptide, is the endogenous ligand for the apelin receptor (APJ) receptor."
+    ],
+    [
+      "proprotein convertase subtilisin/kexin type 9"
+    ],
+    [
+      "Aganlionic megacolon or Hirschsprung disease"
+    ],
+    [
+      "Ackee fruit"
+    ],
+    [
+      "epidermal growth factor receptor (EGFR) gene"
+    ],
+    [
+      "autosomal recessive"
+    ],
+    [
+      "Northeast Siberia"
+    ],
+    [
+      "connective tissue"
+    ],
+    [
+      "deltaF508"
+    ],
+    [
+      "Epidermal growth factor receptor (EGFR)"
+    ],
+    [
+      "atrial fibrillation and flutter"
+    ],
+    [
+      "5-aminolevulinic acid"
+    ],
+    [
+      "naloxone"
+    ],
+    [
+      "MDM two binding protein (MTBP)"
+    ],
+    [
+      "mitochondrial fission"
+    ],
+    [
+      "The RESID Database of Protein Modifications is a comprehensive collection of annotations and structures for protein modifications and cross-links including pre-, co-, and post-translational modifications"
+    ],
+    [
+      "All-alpha-helical fold"
+    ],
+    [
+      "CYP17A1"
+    ],
+    [
+      "Alzheimer's disease"
+    ],
+    [
+      "CD99"
+    ],
+    [
+      "memory loss"
+    ],
+    [
+      "quadratic"
+    ],
+    [
+      "In Fanconi anemia cells, the S-phase checkpoint is inefficient."
+    ],
+    [
+      "Cysteine"
+    ],
+    [
+      "Alpha defensins contain six conserved cysteines"
+    ],
+    [
+      "Low T3 Syndrome isassociatedwithpoor prognosis in patients with acute myocardial infarction"
+    ],
+    [
+      "SMIM1"
+    ],
+    [
+      "In Fanconi anemia cells, the S-phase checkpoint is inefficient."
+    ],
+    [
+      "CYP2C19 genotyping"
+    ],
+    [
+      "XRN1"
+    ],
+    [
+      "3mm"
+    ],
+    [
+      "effective in younger individuals"
+    ],
+    [
+      "Christianson syndrome"
+    ],
+    [
+      "A CAG trinucleotide repeat expansion in the HD gene"
+    ],
+    [
+      "thyroid transcription factor 1"
+    ],
+    [
+      "CD38"
+    ],
+    [
+      "LKB1 plays a physiological role in controlling the Wnt-signaling."
+    ],
+    [
+      "hypertrophic cardiomyopathy"
+    ],
+    [
+      "mRNA stability"
+    ],
+    [
+      "traseR"
+    ],
+    [
+      "X-linked dystonia-parkinsonism"
+    ],
+    [
+      "Immunoaffinity purification"
+    ],
+    [
+      "rolling cycle"
+    ],
+    [
+      "Tafazzin (TAZ) gene"
+    ],
+    [
+      "human poxvirus"
+    ],
+    [
+      "Autosomal recessive, except for FANCB, which is X-linked."
+    ],
+    [
+      "Spt-Ada-Gcn5-acetyltransferase"
+    ],
+    [
+      "The lacrimal and/or salivary glands"
+    ],
+    [
+      "Low T3 syndrome occurs frequently after CABG"
+    ],
+    [
+      "Apis"
+    ],
+    [
+      "CRISPR-Cas"
+    ],
+    [
+      "Yes, there are at least 12 genes associated with human hair color variation such as: TYR, TYRP1, OCA2, SLC45A2, SLC24A5, MC1R, ASIP and KITLG."
+    ],
+    [
+      "The orexigenic peptides are sythesized in the hypothalamus."
+    ],
+    [
+      "Ecallantide"
+    ],
+    [
+      "centrosome"
+    ],
+    [
+      "The repression of hematopoietic genes in erythroid cells."
+    ],
+    [
+      "A-to-I"
+    ],
+    [
+      "dipeptidyl peptidase-4 (DPP-4) inhibitors"
+    ],
+    [
+      "Reverse transcription - polymerase chain reaction (RT-PCR)"
+    ],
+    [
+      "HEXA"
+    ],
+    [
+      "PHYLUCE"
+    ],
+    [
+      "free fetal DNA from maternal cirulcation"
+    ],
+    [
+      "The mutational status of the IGHV genes."
+    ],
+    [
+      "cryopyrin-associated periodic syndromes (CAPS) disorders"
+    ],
+    [
+      "increase of the osteogenic potential of hDPCs"
+    ],
+    [
+      "Etanercept"
+    ],
+    [
+      "Diabetes mellitus"
+    ],
+    [
+      "At least 15%, based on the International Fanconi Anemia Registry (IFAR)"
+    ],
+    [
+      "epidural blood patch"
+    ],
+    [
+      "autosomal dominant or autosomal recessive"
+    ],
+    [
+      "UUCCUUAAC"
+    ],
+    [
+      "PABP4  binds mRNA poly(A) tails."
+    ],
+    [
+      "HBB"
+    ],
+    [
+      "stem cell renewal and self-immune tolerance"
+    ],
+    [
+      "secretory phospholipase A2"
+    ],
+    [
+      "deubiquitination"
+    ],
+    [
+      "Restless legs syndrome"
+    ],
+    [
+      "GKT136901"
+    ],
+    [
+      "Hedghog signalling pathway"
+    ],
+    [
+      "The ubiquitin proteome is the entire set ubiquitinated proteins and of their respective ubiquitination sites."
+    ],
+    [
+      "SET domain"
+    ],
+    [
+      "The inulinase acts on the beta-(2,1)-D-fructoside links in inulin releasing D-fructose."
+    ],
+    [
+      "Delayed enhancement by CMR has prognostic value in predicting adverse cardiovascular events among HCM patients."
+    ],
+    [
+      "EAAT1 mutations"
+    ],
+    [
+      "tofacitinib"
+    ],
+    [
+      "multiple myeloma"
+    ],
+    [
+      "calcitonin gene-related peptide"
+    ],
+    [
+      "DeepCAGE"
+    ],
+    [
+      "X- linked recessive"
+    ],
+    [
+      "zinc"
+    ],
+    [
+      "3mm"
+    ],
+    [
+      "stationary phase"
+    ],
+    [
+      "Learning de novo promoter architectures from genome-wide transcription start sites."
+    ],
+    [
+      "Clostridium botulinum"
+    ],
+    [
+      "major depression"
+    ],
+    [
+      "bax promotes Apoptosis"
+    ],
+    [
+      "AAUAAA"
+    ],
+    [
+      "Primary sclerosing cholangitis"
+    ],
+    [
+      "10-28%"
+    ],
+    [
+      "heel pain"
+    ],
+    [
+      "1954"
+    ],
+    [
+      "Altered thyroid profile after cardiosurgery is associated with several events in adults and in children"
+    ],
+    [
+      "Transcription factor EB (TFEB)"
+    ],
+    [
+      "HTT or  IT-15 gene or HD gene"
+    ],
+    [
+      "Caspases are intracellular proteases that propagate programmed cell death, proliferation, and inflammation."
+    ],
+    [
+      "schizophrenia"
+    ],
+    [
+      "mitochondrial fission"
+    ],
+    [
+      "One"
+    ],
+    [
+      "thyroid"
+    ],
+    [
+      "Cysteine"
+    ],
+    [
+      "Ackee fruit"
+    ],
+    [
+      "It intercalates into the double helix."
+    ],
+    [
+      "The coffee paradox in stroke: Increased consumption linked with fewer strokes."
+    ],
+    [
+      "S-phase"
+    ],
+    [
+      "pupillary dilatation (increase of the pupil size)"
+    ],
+    [
+      "All-alpha-helical fold"
+    ],
+    [
+      "Lantibiotics are post-translationally modified natural peptides containing lanthionine"
+    ],
+    [
+      "thyroid hormone abnormalities"
+    ],
+    [
+      "the carboxyl-terminal Lys-Asp-Glu-Leu (KDEL)"
+    ],
+    [
+      "Amyotrophic lateral sclerosis (ALS)"
+    ],
+    [
+      "cryopyrin-associated periodic syndromes (CAPS) disorders"
+    ],
+    [
+      "Thapsigargin is a sarcoplasmic/endoplasmic Ca(2+)-ATPase (SERCA) inhibitor."
+    ],
+    [
+      "Gaucher disease"
+    ],
+    [
+      "transposable element insertion"
+    ],
+    [
+      "castration-resistant prostate cancer"
+    ],
+    [
+      "spleen tyrosine kinase"
+    ],
+    [
+      "Dax1 associates with Esrrb and regulates its function in embryonic stem cells."
+    ],
+    [
+      "Pthirus pubis"
+    ],
+    [
+      "0.01% -0.1%"
+    ],
+    [
+      "delta-distance"
+    ],
+    [
+      "missense substitution, Met1Val (M1V), in the DCX gene."
+    ],
+    [
+      "PABC4 is important for mRNA stability and translation initiation, in chronic inflammation and in the pathogenesis of colorectal cancer."
+    ],
+    [
+      "chaperone-mediated autophagy (CMA)"
+    ],
+    [
+      "Xq28"
+    ],
+    [
+      "CYP2C19 genotyping"
+    ],
+    [
+      "insulin receptor"
+    ],
+    [
+      "multiple myeloma"
+    ],
+    [
+      "Immunoaffinity purification"
+    ],
+    [
+      "sodium glucose co-transporter 2"
+    ],
+    [
+      "inhibits"
+    ],
+    [
+      "Delayed enhancement by CMR has prognostic value in predicting adverse cardiovascular events among HCM patients."
+    ],
+    [
+      "Development"
+    ],
+    [
+      "CAFE"
+    ],
+    [
+      "Global hypomethylation is coupled with focal hypermethylation at CpG islands"
+    ],
+    [
+      "Diabetes mellitus"
+    ],
+    [
+      "The repression of hematopoietic genes in erythroid cells."
+    ],
+    [
+      "JAMM"
+    ],
+    [
+      "The Pfam database is a collection of curated protein families."
+    ],
+    [
+      "luminal side of the endoplasmic reticulum"
+    ],
+    [
+      "Blue"
+    ],
+    [
+      "Chd1 is an ATP-dependent DNA helicase"
+    ]
+  ],
+  "choices": null,
+  "contexts": null,
+  "metadata": {
+    "source": "BioASQ",
+    "type": "short_answer",
+    "size": 1000,
+    "illustrate": "rephrase 500 questions",
+    "random_seed": 123
+  }
+}
